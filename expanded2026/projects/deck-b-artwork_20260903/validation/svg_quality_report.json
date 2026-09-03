@@ -1,0 +1,831 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "/home/user/DaichenWang/expanded2026/projects/deck-b-artwork_20260903",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "3713119ef0a7b68ecb406d719805a52004bd4b20f7128ac1120aff4418422e38",
+    "file_count": 11,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "478bf398ad1e6b689181ec9bc718d9d68d87c4e034268e57ab1f9496d2b067a9"
+      },
+      {
+        "file": "02_the_work.svg",
+        "sha256": "225ca3096d4e75aa1105e74e98c60c75f8e3c10941374871fcfeb68d85d346cb"
+      },
+      {
+        "file": "03_not_preservation.svg",
+        "sha256": "8e03c1a1ca133280a0376cd28f70e04800b97f799780eccd7cef9c0345b610aa"
+      },
+      {
+        "file": "04_layered_provenance.svg",
+        "sha256": "ecd70773924045cabcb3a5a2292a3fbf2cbd354b8cc87536584923ea710466fe"
+      },
+      {
+        "file": "05_recognition_attachment.svg",
+        "sha256": "6e0cfb834d13a89c86bf7a8414aa4531db58c6770bfb8bcb61494cc547c2c675"
+      },
+      {
+        "file": "06_presence_authorship.svg",
+        "sha256": "0e7ec15b6ff924f97a9ee5027005f9110abeddbc61adb7ced3857a355857d03b"
+      },
+      {
+        "file": "07_inside_environment.svg",
+        "sha256": "3ec345543b413f46084dbde39f79c0a92d84e3d30123df959f29e63c628d67df"
+      },
+      {
+        "file": "08_aerial_perspective.svg",
+        "sha256": "a4399e551ba2cf93e3364a0dc7bb9dd78dbd1349e8395e999a0cc77bd70892fe"
+      },
+      {
+        "file": "09_digitising.svg",
+        "sha256": "3079109c3918636fff518db47a3bdf6c13c44bcb67dad034140758ce3592fd9d"
+      },
+      {
+        "file": "10_minecraft_lab.svg",
+        "sha256": "c6410387768d6b8176edf8d45d2716b843beb00d629eaee1a7979e3b0d2abef8"
+      },
+      {
+        "file": "11_contribution.svg",
+        "sha256": "ed276c541909427d9131bd28e89261846b155dcabd64900126ea196d01b91d5e"
+      }
+    ]
+  },
+  "summary": {
+    "total": 11,
+    "passed": 11,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {
+      "#3D6E9B": [
+        "09_digitising.svg"
+      ],
+      "#A8C0D4": [
+        "09_digitising.svg"
+      ],
+      "#C9D6E0": [
+        "09_digitising.svg"
+      ],
+      "#E1E8EE": [
+        "09_digitising.svg"
+      ]
+    },
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 11,
+    "totals": {
+      "text_elements": 106,
+      "image_placements": 7,
+      "icons": 4,
+      "svg_geometry_elements": 57,
+      "preset_shapes": 0,
+      "page_frame_elements": 12,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 6,
+      "icons": 2,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "geometry_elements": {
+      "circle": 4,
+      "ellipse": 0,
+      "line": 11,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 42
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.1282,
+      1.0
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 4,
+          "images": {
+            "placements": 1,
+            "files": [
+              "vr_garden_hero.png"
+            ],
+            "max_frame_share": 1.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 2,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 4,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "478bf398ad1e6b689181ec9bc718d9d68d87c4e034268e57ab1f9496d2b067a9"
+    },
+    {
+      "file": "02_the_work.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/02_the_work.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 4,
+          "images": {
+            "placements": 1,
+            "files": [
+              "vr_detail_blossom_path.png"
+            ],
+            "max_frame_share": 0.4444
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 4,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "225ca3096d4e75aa1105e74e98c60c75f8e3c10941374871fcfeb68d85d346cb"
+    },
+    {
+      "file": "03_not_preservation.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/03_not_preservation.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 14
+      },
+      "passed": true,
+      "source_sha256": "8e03c1a1ca133280a0376cd28f70e04800b97f799780eccd7cef9c0345b610aa"
+    },
+    {
+      "file": "04_layered_provenance.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/04_layered_provenance.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 10,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 10,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "ecd70773924045cabcb3a5a2292a3fbf2cbd354b8cc87536584923ea710466fe"
+    },
+    {
+      "file": "05_recognition_attachment.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/05_recognition_attachment.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 21,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 8,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 21,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "6e0cfb834d13a89c86bf7a8414aa4531db58c6770bfb8bcb61494cc547c2c675"
+    },
+    {
+      "file": "06_presence_authorship.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/06_presence_authorship.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 2,
+            "files": [
+              "minecraft_ai_guide.png",
+              "vr_garden_hero.png"
+            ],
+            "max_frame_share": 0.1282
+          },
+          "icons": 2,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 5
+      },
+      "passed": true,
+      "source_sha256": "0e7ec15b6ff924f97a9ee5027005f9110abeddbc61adb7ced3857a355857d03b"
+    },
+    {
+      "file": "07_inside_environment.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/07_inside_environment.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 1,
+            "files": [
+              "vr_detail_blossom_path.png"
+            ],
+            "max_frame_share": 0.4444
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "3ec345543b413f46084dbde39f79c0a92d84e3d30123df959f29e63c628d67df"
+    },
+    {
+      "file": "08_aerial_perspective.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/08_aerial_perspective.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 1,
+            "files": [
+              "vr_garden_hero.png"
+            ],
+            "max_frame_share": 0.4167
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "a4399e551ba2cf93e3364a0dc7bb9dd78dbd1349e8395e999a0cc77bd70892fe"
+    },
+    {
+      "file": "09_digitising.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/09_digitising.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 19,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 15,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 19,
+        "tspan_elements": 1,
+        "contextual_values": {
+          "colors": [
+            "#3D6E9B",
+            "#A8C0D4",
+            "#C9D6E0",
+            "#E1E8EE"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "3079109c3918636fff518db47a3bdf6c13c44bcb67dad034140758ce3592fd9d"
+    },
+    {
+      "file": "10_minecraft_lab.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/10_minecraft_lab.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 1,
+            "files": [
+              "minecraft_ai_guide.png"
+            ],
+            "max_frame_share": 0.1587
+          },
+          "icons": 2,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 9
+      },
+      "passed": true,
+      "source_sha256": "c6410387768d6b8176edf8d45d2716b843beb00d629eaee1a7979e3b0d2abef8"
+    },
+    {
+      "file": "11_contribution.svg",
+      "path": "projects/deck-b-artwork_20260903/svg_output/11_contribution.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 11,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 11,
+        "tspan_elements": 14
+      },
+      "passed": true,
+      "source_sha256": "ed276c541909427d9131bd28e89261846b155dcabd64900126ea196d01b91d5e"
+    }
+  ]
+}

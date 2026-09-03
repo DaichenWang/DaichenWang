@@ -1,0 +1,11 @@
+# Unpublished research inputs — do not publish. Regenerate locally with:
+#   python3 <skill>/scripts/source_to_md.py <the PDFs and the thesis> -o expanded2026/converted
+expanded2026/converted/
+expanded2026/projects/*/sources/
+expanded2026/assets/
+
+# Derived artefacts, rebuildable from svg_output/ by finalize_svg.py and svg_to_pptx.py
+expanded2026/projects/*/svg_final/
+expanded2026/projects/*/exports/
+expanded2026/projects/*/backup/
+expanded2026/projects/*/live_preview/

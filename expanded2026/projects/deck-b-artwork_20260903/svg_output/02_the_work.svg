@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="work-image" data-pptx-bounds="0 0 1280 320">
+    <image href="../images/vr_detail_blossom_path.png" x="0" y="0" width="1280" height="320" preserveAspectRatio="xMidYMid slice" />
+  </g>
+  <g id="page-header" data-pptx-bounds="72 356 1136 100" fill="#003B71">
+    <text x="72" y="412" font-family="Georgia, serif" font-size="48">An experiential, multisensory world</text>
+    <rect x="72" y="436" width="220" height="4" />
+  </g>
+  <g id="work-spec" data-pptx-bounds="72 460 1136 160">
+    <text x="72" y="500" font-size="34" fill="#1A1A1A">Unity 2022.3, deployed on <tspan font-weight="bold" fill="#003B71">Meta Quest 3</tspan>. It engages users<tspan x="72" dy="42">through gesture, sound and poetic narrative, drawing on</tspan><tspan x="72" dy="42">the spatial logics of Jichang Garden.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">2</text>
+  </g>
+</svg>

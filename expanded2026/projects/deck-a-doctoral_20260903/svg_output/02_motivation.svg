@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">9 February 2026, Wuxi Railway Station</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="opening-statement" data-pptx-bounds="72 172 660 428">
+    <text x="72" y="232" font-family="Georgia, serif" font-size="48" fill="#003B71">The crowd was returning<tspan x="72" dy="58">home, but I was not.</tspan></text>
+    <text x="72" y="366" font-size="28" fill="#1A1A1A">The Lunar New Year rush at its peak; in a<tspan x="72" dy="40">few days I would fly back to Brisbane.</tspan><tspan x="72" dy="40">That tension — between those for whom</tspan><tspan x="72" dy="40">return is a way of life and those for</tspan><tspan x="72" dy="40">whom it has become a periodic exception</tspan><tspan x="72" dy="40">— is where this research starts.</tspan></text>
+  </g>
+  <g id="photo-reserve" data-pptx-bounds="764 172 444 428">
+    <rect x="764" y="172" width="444" height="296" fill="#F2F5F8" stroke="#8A8D8F" stroke-width="2" stroke-dasharray="8,4" />
+    <text x="986" y="312" font-size="22" text-anchor="middle" fill="#5A6570">Photograph to be added</text>
+    <text x="764" y="510" font-size="22" fill="#5A6570">Reserved — add your own photograph<tspan x="764" dy="32">of the station, 9 February 2026.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">2</text>
+  </g>
+</svg>

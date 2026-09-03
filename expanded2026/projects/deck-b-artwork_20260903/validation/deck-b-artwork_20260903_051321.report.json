@@ -1,0 +1,223 @@
+{
+  "schema": "ppt-master.pptx-postflight-report.v1",
+  "status": "passed",
+  "output": {
+    "path": "/home/user/DaichenWang/expanded2026/projects/deck-b-artwork_20260903/exports/deck-b-artwork_20260903_051321.pptx",
+    "bytes": 8866227
+  },
+  "source": {
+    "svg_slide_count": 11,
+    "layout_definition_count": 0,
+    "fingerprint": {
+      "algorithm": "sha256",
+      "digest": "3713119ef0a7b68ecb406d719805a52004bd4b20f7128ac1120aff4418422e38",
+      "file_count": 11,
+      "files": [
+        {
+          "file": "01_cover.svg",
+          "sha256": "478bf398ad1e6b689181ec9bc718d9d68d87c4e034268e57ab1f9496d2b067a9"
+        },
+        {
+          "file": "02_the_work.svg",
+          "sha256": "225ca3096d4e75aa1105e74e98c60c75f8e3c10941374871fcfeb68d85d346cb"
+        },
+        {
+          "file": "03_not_preservation.svg",
+          "sha256": "8e03c1a1ca133280a0376cd28f70e04800b97f799780eccd7cef9c0345b610aa"
+        },
+        {
+          "file": "04_layered_provenance.svg",
+          "sha256": "ecd70773924045cabcb3a5a2292a3fbf2cbd354b8cc87536584923ea710466fe"
+        },
+        {
+          "file": "05_recognition_attachment.svg",
+          "sha256": "6e0cfb834d13a89c86bf7a8414aa4531db58c6770bfb8bcb61494cc547c2c675"
+        },
+        {
+          "file": "06_presence_authorship.svg",
+          "sha256": "0e7ec15b6ff924f97a9ee5027005f9110abeddbc61adb7ced3857a355857d03b"
+        },
+        {
+          "file": "07_inside_environment.svg",
+          "sha256": "3ec345543b413f46084dbde39f79c0a92d84e3d30123df959f29e63c628d67df"
+        },
+        {
+          "file": "08_aerial_perspective.svg",
+          "sha256": "a4399e551ba2cf93e3364a0dc7bb9dd78dbd1349e8395e999a0cc77bd70892fe"
+        },
+        {
+          "file": "09_digitising.svg",
+          "sha256": "3079109c3918636fff518db47a3bdf6c13c44bcb67dad034140758ce3592fd9d"
+        },
+        {
+          "file": "10_minecraft_lab.svg",
+          "sha256": "c6410387768d6b8176edf8d45d2716b843beb00d629eaee1a7979e3b0d2abef8"
+        },
+        {
+          "file": "11_contribution.svg",
+          "sha256": "ed276c541909427d9131bd28e89261846b155dcabd64900126ea196d01b91d5e"
+        }
+      ]
+    },
+    "authoring_roundtrip": null
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "slides": 11,
+    "notes": 11,
+    "masters": 1,
+    "layouts": 1
+  },
+  "checks": {
+    "zip_integrity": "passed",
+    "slide_count": "passed",
+    "internal_relationships": "enforced-at-build",
+    "structured_package": "not-applicable",
+    "transitions": "enforced-at-build",
+    "animations": "enforced-at-build",
+    "project_svg_contract": "enforced-at-build",
+    "compatibility_normalization": "not-applicable",
+    "authoring_roundtrip": "not-applicable",
+    "quality_gate": "passed",
+    "quality_warnings": "passed",
+    "template_tokens": "passed",
+    "external_images": "passed",
+    "font_portability": "passed"
+  },
+  "quality": {
+    "status": "loaded",
+    "path": "projects/deck-b-artwork_20260903/validation/svg_quality_report.json",
+    "schema": "ppt-master.svg-quality-report.v1",
+    "stage": "final",
+    "source_match": "passed",
+    "source_fingerprint": {
+      "algorithm": "sha256",
+      "digest": "3713119ef0a7b68ecb406d719805a52004bd4b20f7128ac1120aff4418422e38",
+      "file_count": 11,
+      "files": [
+        {
+          "file": "01_cover.svg",
+          "sha256": "478bf398ad1e6b689181ec9bc718d9d68d87c4e034268e57ab1f9496d2b067a9"
+        },
+        {
+          "file": "02_the_work.svg",
+          "sha256": "225ca3096d4e75aa1105e74e98c60c75f8e3c10941374871fcfeb68d85d346cb"
+        },
+        {
+          "file": "03_not_preservation.svg",
+          "sha256": "8e03c1a1ca133280a0376cd28f70e04800b97f799780eccd7cef9c0345b610aa"
+        },
+        {
+          "file": "04_layered_provenance.svg",
+          "sha256": "ecd70773924045cabcb3a5a2292a3fbf2cbd354b8cc87536584923ea710466fe"
+        },
+        {
+          "file": "05_recognition_attachment.svg",
+          "sha256": "6e0cfb834d13a89c86bf7a8414aa4531db58c6770bfb8bcb61494cc547c2c675"
+        },
+        {
+          "file": "06_presence_authorship.svg",
+          "sha256": "0e7ec15b6ff924f97a9ee5027005f9110abeddbc61adb7ced3857a355857d03b"
+        },
+        {
+          "file": "07_inside_environment.svg",
+          "sha256": "3ec345543b413f46084dbde39f79c0a92d84e3d30123df959f29e63c628d67df"
+        },
+        {
+          "file": "08_aerial_perspective.svg",
+          "sha256": "a4399e551ba2cf93e3364a0dc7bb9dd78dbd1349e8395e999a0cc77bd70892fe"
+        },
+        {
+          "file": "09_digitising.svg",
+          "sha256": "3079109c3918636fff518db47a3bdf6c13c44bcb67dad034140758ce3592fd9d"
+        },
+        {
+          "file": "10_minecraft_lab.svg",
+          "sha256": "c6410387768d6b8176edf8d45d2716b843beb00d629eaee1a7979e3b0d2abef8"
+        },
+        {
+          "file": "11_contribution.svg",
+          "sha256": "ed276c541909427d9131bd28e89261846b155dcabd64900126ea196d01b91d5e"
+        }
+      ]
+    },
+    "summary": {
+      "total": 11,
+      "passed": 11,
+      "warnings": 0,
+      "errors": 0
+    },
+    "categories": {
+      "blocking": {
+        "count": 0,
+        "issues": []
+      },
+      "introduced": {
+        "count": 0,
+        "issues": []
+      },
+      "inherited": {
+        "count": 0,
+        "issues": []
+      },
+      "source-import": {
+        "count": 0,
+        "summary": {
+          "warning_count": 0,
+          "by_code": {}
+        }
+      }
+    }
+  },
+  "resources": {
+    "unresolved_template_tokens": [],
+    "fonts": {
+      "stacks": [
+        "Calibri, sans-serif",
+        "Georgia, serif"
+      ],
+      "generic_only_stacks": [],
+      "unsafe_exported_faces": []
+    },
+    "images": {
+      "data_uri": 0,
+      "local": 7,
+      "external": 0,
+      "external_references": []
+    }
+  },
+  "export_policy": {
+    "project_svg_contract": "strict",
+    "dangerous_normalization_count": 0
+  },
+  "deck_motion": {
+    "transition": {
+      "effect": "fade",
+      "effect_options": {},
+      "duration": 0.4,
+      "auto_advance": null,
+      "sound": null
+    },
+    "animation": {
+      "effect": "none",
+      "effect_request": null,
+      "duration": 0.4,
+      "stagger": 0.5,
+      "trigger": "after-previous"
+    },
+    "cli_overrides": {
+      "transition": false,
+      "transition_duration": false,
+      "auto_advance": false,
+      "transition_sound": false,
+      "animation": false,
+      "animation_duration": false,
+      "animation_stagger": false,
+      "animation_trigger": false
+    },
+    "narration_timings": false
+  },
+  "backup_path": "/home/user/DaichenWang/expanded2026/projects/deck-b-artwork_20260903/backup/20260903_051321/svg_output",
+  "conversion_trace_path": null
+}

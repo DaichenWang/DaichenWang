@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="ending">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">Next steps</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="next-analysis" data-pptx-bounds="72 176 552 118" font-size="22">
+    <text x="72" y="212" font-weight="bold" fill="#0091DA">01  Complete the thematic analysis</text>
+    <text x="72" y="248" fill="#1A1A1A">It drives iterative updates to both<tspan x="72" dy="32">platforms and answers the third question.</tspan></text>
+  </g>
+  <g id="next-compare" data-pptx-bounds="656 176 552 118" font-size="22">
+    <text x="656" y="212" font-weight="bold" fill="#0091DA">02  Compare the two modalities</text>
+    <text x="656" y="248" fill="#1A1A1A">Triangulate questionnaire patterns with<tspan x="656" dy="32">discussion themes: presence against building.</tspan></text>
+  </g>
+  <g id="next-unreal" data-pptx-bounds="72 306 552 118" font-size="22">
+    <text x="72" y="342" font-weight="bold" fill="#0091DA">03  Finish the Unreal Engine version</text>
+    <text x="72" y="378" fill="#1A1A1A">Higher visual fidelity, then comparison<tspan x="72" dy="32">across all three platforms.</tspan></text>
+  </g>
+  <g id="next-dance" data-pptx-bounds="656 306 552 118" font-size="22">
+    <text x="656" y="342" font-weight="bold" fill="#0091DA">04  Bring classical dance into the world</text>
+    <text x="656" y="378" fill="#1A1A1A">With the QUT XR Screen Futures Hub, captured<tspan x="656" dy="32">at The Block as a periodic cultural event.</tspan></text>
+  </g>
+  <g id="acknowledgement" data-pptx-bounds="72 428 1136 30">
+    <text x="72" y="448" font-size="16" fill="#5A6570">Supervisors: Dr Rewa Wright, Prof. Damian Candusso, Prof. Gavin Sade, QUT. Thanks to the staff and visitors of Jichang Garden.</text>
+  </g>
+  <g id="closing-claim" data-pptx-bounds="72 460 1136 170">
+    <line x1="72" y1="470" x2="1208" y2="470" stroke="#003B71" stroke-width="3" />
+    <text x="72" y="522" font-family="Georgia, serif" font-size="36" fill="#003B71">If root-seeking operates through sensory memory<tspan x="72" dy="48">rather than physical location, the question is not</tspan><tspan x="72" dy="48">where it can happen, but how.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">daichen.wang@hdr.qut.edu.au — QUT Ethics LR 2025-8766</text>
+    <text x="1208" y="652" text-anchor="end">11</text>
+  </g>
+</svg>

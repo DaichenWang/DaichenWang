@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">Current status</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="status-list" data-pptx-bounds="72 176 700 436">
+    <text x="72" y="240" font-size="56" font-weight="bold" fill="#003B71">90</text>
+    <text x="270" y="226" font-size="22" fill="#1A1A1A">fps on Meta Quest 3; the VR environment is<tspan x="270" dy="32">fully operational and publicly exhibited</tspan></text>
+    <line x1="72" y1="278" x2="772" y2="278" stroke="#D8DFE6" stroke-width="1" />
+    <text x="72" y="340" font-size="56" font-weight="bold" fill="#003B71">90%</text>
+    <text x="270" y="326" font-size="22" fill="#1A1A1A">conversational accuracy for the MinePal<tspan x="270" dy="32">guide across roughly 20 test rounds</tspan></text>
+    <line x1="72" y1="378" x2="772" y2="378" stroke="#D8DFE6" stroke-width="1" />
+    <text x="72" y="440" font-size="56" font-weight="bold" fill="#003B71">102</text>
+    <text x="270" y="426" font-size="22" fill="#1A1A1A">scanned artifacts open on Sketchfab, via<tspan x="270" dy="32">LiDAR, Gaussian Splatting, aerial capture</tspan></text>
+    <line x1="72" y1="478" x2="772" y2="478" stroke="#D8DFE6" stroke-width="1" />
+    <text x="72" y="530" font-size="22" font-weight="bold" fill="#0091DA">IN PROGRESS</text>
+    <text x="270" y="526" font-size="22" fill="#1A1A1A">Thematic analysis of the June 2026 focus<tspan x="270" dy="32">group data; an Unreal iteration underway</tspan></text>
+  </g>
+  <g id="photo-reserve" data-pptx-bounds="804 176 404 436">
+    <rect x="804" y="176" width="404" height="270" fill="#F2F5F8" stroke="#8A8D8F" stroke-width="2" stroke-dasharray="8,4" />
+    <text x="1006" y="316" font-size="22" text-anchor="middle" fill="#5A6570">Photograph to be added</text>
+    <text x="804" y="490" font-size="22" fill="#5A6570">Reserved — add your own photo of<tspan x="804" dy="32">the public exhibition, or of</tspan><tspan x="804" dy="32">a participant in the headset.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">9</text>
+  </g>
+</svg>

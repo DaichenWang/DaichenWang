@@ -1,0 +1,467 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "early",
+  "target": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "d65d0d5733055330141677a3f30caa369fd736bddfd375469c59d6665adb7cd8",
+    "file_count": 5,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "776f95bd137aaff295137b9666661ae85f7a75781e3183f90d05afd4a4a9e80c"
+      },
+      {
+        "file": "02_motivation.svg",
+        "sha256": "30442f765d5ce20c194723b44cd67c8bf803ccf6368858f82eaa12433e74c87a"
+      },
+      {
+        "file": "03_roots_to_routes.svg",
+        "sha256": "a78bb0aec6e1243a65545abc152c50fb664352222260c6f80cc1e7ee33445b21"
+      },
+      {
+        "file": "04_research_gap.svg",
+        "sha256": "c2e4cb55042ba72e02f81caacb5835cb19814fdbb9a7d3cd677699c2838974c3"
+      },
+      {
+        "file": "05_questions.svg",
+        "sha256": "860159fa1aaa4cfc7582a0875acc2f6573e21c6f3140e2b366f2019c06f37443"
+      }
+    ]
+  },
+  "summary": {
+    "total": 5,
+    "passed": 0,
+    "warnings": 5,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 8,
+      "issues": [
+        {
+          "file": "01_cover.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-family None -> 'Georgia, serif'; text[4]:font-family 'Georgia, serif' -> None; text[5]:font-family 'Georgia, serif' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "02_motivation.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "02_motivation.svg",
+          "message": "<text> (x=72, y=366; text='The Lunar New Year r…') exceeds <g id=\"opening-statement\"> data-pptx-bounds on the horizontal axis: content (72.0, 342.2)-(741.3, 575.8), container (72.0, 172.0)-(732.0, 600.0), overflow horizontal 1.4%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈16.7 px per mixed char at 28px incl. headroom; ≈39 chars fit in 660 px"
+        },
+        {
+          "file": "02_motivation.svg",
+          "message": "<text> (x=764, y=510; text='Reserved — add your …') exceeds <g id=\"photo-reserve\"> data-pptx-bounds on the horizontal axis: content (764.0, 491.3)-(1211.6, 549.7), container (764.0, 172.0)-(1208.0, 600.0), overflow horizontal 0.8%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈14.0 px per Latin char at 22px incl. headroom; ≈31 chars fit in 444 px"
+        },
+        {
+          "file": "03_roots_to_routes.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "03_roots_to_routes.svg",
+          "message": "<text> (x=140, y=548; text='Home is “a mythic pl…') exceeds <g id=\"theory-sequence\"> data-pptx-bounds on the horizontal axis: content (140.0, 524.2)-(1222.9, 597.8), container (72.0, 190.0)-(1208.0, 606.0), overflow horizontal 1.3%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈17.5 px per Latin char at 28px incl. headroom; ≈65 chars fit in 1136 px"
+        },
+        {
+          "file": "04_research_gap.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        },
+        {
+          "file": "05_questions.svg",
+          "message": "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+        }
+      ]
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 5,
+    "totals": {
+      "text_elements": 38,
+      "image_placements": 1,
+      "icons": 0,
+      "svg_geometry_elements": 17,
+      "preset_shapes": 0,
+      "page_frame_elements": 5,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 4,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 1,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "geometry_elements": {
+      "circle": 3,
+      "ellipse": 0,
+      "line": 4,
+      "path": 0,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 10
+    },
+    "preset_names": {},
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": [
+      0.3082,
+      0.3082
+    ]
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (3 change(s)); examples: cover-title:font-family None -> 'Georgia, serif'; text[4]:font-family 'Georgia, serif' -> None; text[5]:font-family 'Georgia, serif' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 5,
+          "images": {
+            "placements": 1,
+            "files": [
+              "vr_garden_hero.png"
+            ],
+            "max_frame_share": 0.3082
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 5,
+        "tspan_elements": 1
+      },
+      "passed": true,
+      "source_sha256": "776f95bd137aaff295137b9666661ae85f7a75781e3183f90d05afd4a4a9e80c"
+    },
+    {
+      "file": "02_motivation.svg",
+      "path": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903/svg_output/02_motivation.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "<text> (x=72, y=366; text='The Lunar New Year r…') exceeds <g id=\"opening-statement\"> data-pptx-bounds on the horizontal axis: content (72.0, 342.2)-(741.3, 575.8), container (72.0, 172.0)-(732.0, 600.0), overflow horizontal 1.4%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈16.7 px per mixed char at 28px incl. headroom; ≈39 chars fit in 660 px",
+        "<text> (x=764, y=510; text='Reserved — add your …') exceeds <g id=\"photo-reserve\"> data-pptx-bounds on the horizontal axis: content (764.0, 491.3)-(1211.6, 549.7), container (764.0, 172.0)-(1208.0, 600.0), overflow horizontal 0.8%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈14.0 px per Latin char at 22px incl. headroom; ≈31 chars fit in 444 px"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 7,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 7,
+        "tspan_elements": 7
+      },
+      "passed": true,
+      "source_sha256": "30442f765d5ce20c194723b44cd67c8bf803ccf6368858f82eaa12433e74c87a"
+    },
+    {
+      "file": "03_roots_to_routes.svg",
+      "path": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903/svg_output/03_roots_to_routes.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)",
+        "<text> (x=140, y=548; text='Home is “a mythic pl…') exceeds <g id=\"theory-sequence\"> data-pptx-bounds on the horizontal axis: content (140.0, 524.2)-(1222.9, 597.8), container (72.0, 190.0)-(1208.0, 606.0), overflow horizontal 1.3%, vertical 0.0% (error above 5%); expand the root module bounds into available non-overlapping space; otherwise reflow the text; ≈17.5 px per Latin char at 28px incl. headroom; ≈65 chars fit in 1136 px"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "a78bb0aec6e1243a65545abc152c50fb664352222260c6f80cc1e7ee33445b21"
+    },
+    {
+      "file": "04_research_gap.svg",
+      "path": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903/svg_output/04_research_gap.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 8,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 8,
+        "tspan_elements": 11
+      },
+      "passed": true,
+      "source_sha256": "c2e4cb55042ba72e02f81caacb5835cb19814fdbb9a7d3cd677699c2838974c3"
+    },
+    {
+      "file": "05_questions.svg",
+      "path": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903/svg_output/05_questions.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [
+        "Noncanonical compact authoring: Authoring SVG contains noncanonical or redundant inherited style declarations (9 change(s)); examples: page-header:fill None -> '#003B71'; text[4]:fill '#003B71' -> None; rect[5]:fill '#003B71' -> None (advisory; normalize with `python3 scripts/compact_svg_styles.py <svg_output> --inplace`, re-stamp pages that carry Chart/Table fallbacks, and rerun the final gate, or leave the explicit form)"
+      ],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 3,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Calibri, sans-serif",
+          "Georgia, serif"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "860159fa1aaa4cfc7582a0875acc2f6573e21c6f3140e2b366f2019c06f37443"
+    }
+  ]
+}

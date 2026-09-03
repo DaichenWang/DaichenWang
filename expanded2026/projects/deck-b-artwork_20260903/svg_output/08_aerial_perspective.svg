@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="depth-image" data-pptx-bounds="0 0 1280 300">
+    <image href="../images/vr_garden_hero.png" x="0" y="0" width="1280" height="300" preserveAspectRatio="xMidYMid slice" />
+  </g>
+  <g id="page-header" data-pptx-bounds="72 336 1136 100" fill="#003B71">
+    <text x="72" y="392" font-family="Georgia, serif" font-size="48">Depth through mist, not perspective</text>
+    <rect x="72" y="416" width="220" height="4" />
+  </g>
+  <g id="depth-optical" data-pptx-bounds="72 448 552 172" font-size="22">
+    <text x="72" y="480" fill="#5A6570">The optical problem</text>
+    <text x="72" y="524" fill="#1A1A1A">Under uniform illumination the scene<tspan x="72" dy="32">flattened: equal lighting across the depth</tspan><tspan x="72" dy="32">scale reduced the legibility of distance.</tspan></text>
+  </g>
+  <g id="depth-cultural" data-pptx-bounds="656 448 552 172" font-size="22">
+    <text x="656" y="480" fill="#5A6570">The cultural answer</text>
+    <text x="656" y="524" fill="#1A1A1A">Shanshui painting renders depth through<tspan x="656" dy="32">mist and tonal recession, and Jichang</tspan><tspan x="656" dy="32">borrows the Xishan hills through haze.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Distance-based volumetric fog and height fog now attenuate contrast toward the horizon.</text>
+    <text x="1208" y="652" text-anchor="end">8</text>
+  </g>
+</svg>

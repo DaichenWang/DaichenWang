@@ -1,0 +1,74 @@
+[
+  {
+    "index": 1,
+    "filename": "f44a75d1-expanded202642_p3_0.png",
+    "original_filename": "f44a75d1-expanded202642_p3_0.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 3,
+    "occurrence_index": 1,
+    "pixel_width": 1910,
+    "pixel_height": 1069,
+    "pixel_ratio": 1.786717,
+    "display_ratio": 1.786717,
+    "source_sha256": "41bf2411077ac3cce796792b8bfc3081adc3f1767e6d9af5e19bf1ddd3dd68d5",
+    "bbox": [
+      53.79800033569336,
+      421.031494140625,
+      294.0425720214844,
+      555.4929809570312
+    ],
+    "source_namespace": "f44a75d1-expanded202642"
+  },
+  {
+    "index": 2,
+    "filename": "f44a75d1-expanded202642_p4_1.png",
+    "original_filename": "f44a75d1-expanded202642_p4_1.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 4,
+    "occurrence_index": 2,
+    "pixel_width": 1911,
+    "pixel_height": 1071,
+    "pixel_ratio": 1.784314,
+    "display_ratio": 1.784314,
+    "source_sha256": "74c8b7b57cc8005401223eefddb7f02ecd13cacf9d222fab0d69a6f2b9f8cdb1",
+    "bbox": [
+      53.79800033569336,
+      83.68424987792969,
+      294.03936767578125,
+      218.32501220703125
+    ],
+    "source_namespace": "f44a75d1-expanded202642"
+  },
+  {
+    "index": 3,
+    "filename": "f44a75d1-expanded202642_p4_2.png",
+    "original_filename": "f44a75d1-expanded202642_p4_2.png",
+    "asset_kind": "bitmap",
+    "svg_renderable": true,
+    "pptx_native_supported": true,
+    "source_kind": "pdf_image",
+    "source_ext": ".png",
+    "page_index": 4,
+    "occurrence_index": 3,
+    "pixel_width": 703,
+    "pixel_height": 337,
+    "pixel_ratio": 2.086053,
+    "display_ratio": 2.086053,
+    "source_sha256": "44911c2eec7c0d8e646235bc0aeb886c7f6a1318ce063aa824cc4a7f45114149",
+    "bbox": [
+      53.79800033569336,
+      254.78140258789062,
+      294.0583190917969,
+      369.95599365234375
+    ],
+    "source_namespace": "f44a75d1-expanded202642"
+  }
+]

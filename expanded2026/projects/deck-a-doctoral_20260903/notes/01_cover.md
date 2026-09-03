@@ -1,0 +1,1 @@
+Good morning. My name is Daichen Wang, and I am a doctoral candidate in the School of Creative Arts at Queensland University of Technology. The project is called Root-Seeking, or Xun Gen, and what you are looking at is a classical Chinese garden that no longer exists in this form, rebuilt as a virtual environment for people who cannot go back to it.

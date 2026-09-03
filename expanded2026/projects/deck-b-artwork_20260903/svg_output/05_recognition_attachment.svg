@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">Recognition runs ahead of attachment</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="recognition-attachment-gap" data-pptx-bounds="72 176 700 440">
+    <g id="recognition-attachment-gap-chartArea">
+      <line x1="420" y1="240" x2="420" y2="520" stroke="#E8EDF2" stroke-width="1" />
+      <line x1="500" y1="240" x2="500" y2="520" stroke="#E8EDF2" stroke-width="1" />
+      <line x1="580" y1="240" x2="580" y2="520" stroke="#E8EDF2" stroke-width="1" />
+      <line x1="660" y1="240" x2="660" y2="520" stroke="#E8EDF2" stroke-width="1" />
+      <line x1="740" y1="240" x2="740" y2="520" stroke="#E8EDF2" stroke-width="1" />
+      <line x1="420" y1="520" x2="740" y2="520" stroke="#D8DFE6" stroke-width="2" />
+      <!-- chart-plot-area: object=recognition-attachment-gap | 420,240,740,520 -->
+      <line x1="504.8" y1="300" x2="655.2" y2="300" stroke="#8A8D8F" stroke-width="4" />
+      <circle cx="504.8" cy="300" r="12" fill="#8A8D8F" />
+      <circle cx="655.2" cy="300" r="12" fill="#003B71" />
+      <text x="486" y="308" font-size="22" text-anchor="end" fill="#1A1A1A">3.53</text>
+      <text x="674" y="308" font-size="22" fill="#1A1A1A">4.47</text>
+      <line x1="548" y1="440" x2="660" y2="440" stroke="#8A8D8F" stroke-width="4" />
+      <circle cx="548" cy="440" r="12" fill="#8A8D8F" />
+      <circle cx="660" cy="440" r="12" fill="#003B71" />
+      <text x="529" y="448" font-size="22" text-anchor="end" fill="#1A1A1A">3.80</text>
+      <text x="679" y="448" font-size="22" fill="#1A1A1A">4.50</text>
+      <text x="400" y="292" font-size="22" text-anchor="end" fill="#1A1A1A">Visitors: importance</text>
+      <text x="400" y="320" font-size="22" text-anchor="end" fill="#5A6570">vs personal significance</text>
+      <text x="400" y="432" font-size="22" text-anchor="end" fill="#1A1A1A">Attachment: visitors</text>
+      <text x="400" y="460" font-size="22" text-anchor="end" fill="#5A6570">vs administrators</text>
+      <text x="420" y="548" font-size="16" text-anchor="middle" fill="#5A6570">3.0</text>
+      <text x="500" y="548" font-size="16" text-anchor="middle" fill="#5A6570">3.5</text>
+      <text x="580" y="548" font-size="16" text-anchor="middle" fill="#5A6570">4.0</text>
+      <text x="660" y="548" font-size="16" text-anchor="middle" fill="#5A6570">4.5</text>
+      <text x="740" y="548" font-size="16" text-anchor="middle" fill="#5A6570">5.0</text>
+    </g>
+    <text x="72" y="588" font-size="16" fill="#5A6570">On-site questionnaire, Jichang Garden. Visitors N=15, administrators N=12.</text>
+  </g>
+  <g id="design-consequences" data-pptx-bounds="804 176 404 440">
+    <text x="804" y="206" font-size="22" fill="#5A6570">What follows for the design</text>
+    <text x="804" y="256" font-size="22" fill="#1A1A1A">Both groups rated sensory<tspan x="804" dy="32">experience the most important</tspan><tspan x="804" dy="32">quality of a virtual garden —</tspan><tspan x="804" dy="32">4.20 and 4.25 — while reporting</tspan><tspan x="804" dy="32">almost no prior VR use.</tspan></text>
+    <text x="804" y="452" font-size="56" font-weight="bold" fill="#0091DA">130/172</text>
+    <text x="804" y="486" font-size="22" fill="#1A1A1A">named overly complex operation<tspan x="804" dy="32">as the style to avoid, ahead of</tspan><tspan x="804" dy="32">gamification (86) and modernity</tspan><tspan x="804" dy="32">(56). 40.1% had never used VR.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">5</text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">Presence, and authorship</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="affordance-presence" data-pptx-bounds="72 176 552 364">
+    <image href="../images/vr_garden_hero.png" x="72" y="176" width="552" height="214" preserveAspectRatio="xMidYMid slice" />
+    <use data-icon="tabler-filled/mountain" x="72" y="410" width="32" height="32" fill="#003B71" />
+    <text x="116" y="436" font-family="Georgia, serif" font-size="36" fill="#003B71">Affords presence</text>
+    <text x="72" y="476" font-size="22" fill="#1A1A1A">Continuous space, naturalistic scale,<tspan x="72" dy="28">spatialised sound. Visual completeness</tspan><tspan x="72" dy="28">signals a finished world.</tspan></text>
+  </g>
+  <g id="affordance-authorship" data-pptx-bounds="656 176 552 364">
+    <image href="../images/minecraft_ai_guide.png" x="656" y="176" width="552" height="214" preserveAspectRatio="xMidYMid meet" />
+    <use data-icon="tabler-filled/message" x="656" y="410" width="32" height="32" fill="#0091DA" />
+    <text x="700" y="436" font-family="Georgia, serif" font-size="36" fill="#003B71">Affords authorship</text>
+    <text x="656" y="476" font-size="22" fill="#1A1A1A">Coarse blocks make building legible and<tspan x="656" dy="28">reversible, and signal a world that is</tspan><tspan x="656" dy="28">open to change.</tspan></text>
+  </g>
+  <g id="pull-statement" data-pptx-bounds="72 552 1136 80">
+    <line x1="72" y1="552" x2="1208" y2="552" stroke="#003B71" stroke-width="2" />
+    <text x="72" y="590" font-size="28" fill="#1A1A1A">Realism communicates that heritage is to be received;<tspan x="72" dy="32">blocks communicate that heritage may be remade.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">6</text>
+  </g>
+</svg>

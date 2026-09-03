@@ -1,0 +1,78 @@
+{
+  "roles": {
+    "body": {
+      "family": "Calibri, sans-serif",
+      "size": 28.0,
+      "cjk_chars_per_100px": 3.4,
+      "latin_chars_per_100px": 6.9,
+      "longest_planned_line": {
+        "px": 4414.3,
+        "slide": "P06",
+        "text": "The VRChat environment is the primary a…"
+      }
+    },
+    "title": {
+      "family": "Georgia, serif",
+      "size": 48.0,
+      "cjk_chars_per_100px": 1.9,
+      "latin_chars_per_100px": 3.7,
+      "longest_planned_line": {
+        "px": 1490.4,
+        "slide": "P04",
+        "text": "What separates speculative co-creation …"
+      }
+    },
+    "subtitle": {
+      "family": "Georgia, serif",
+      "size": 36.0,
+      "cjk_chars_per_100px": 2.5,
+      "latin_chars_per_100px": 4.9,
+      "longest_planned_line": {
+        "px": 3345.7,
+        "slide": "P09",
+        "text": "To our knowledge the most comprehensive…"
+      }
+    },
+    "annotation": {
+      "family": "Calibri, sans-serif",
+      "size": 22.0,
+      "cjk_chars_per_100px": 4.3,
+      "latin_chars_per_100px": 8.8,
+      "longest_planned_line": null
+    },
+    "data": {
+      "family": "Calibri, sans-serif",
+      "size": 56.0,
+      "cjk_chars_per_100px": 1.7,
+      "latin_chars_per_100px": 3.5,
+      "longest_planned_line": null
+    },
+    "display": {
+      "family": "Calibri, sans-serif",
+      "size": 72.0,
+      "cjk_chars_per_100px": 1.3,
+      "latin_chars_per_100px": 2.7,
+      "longest_planned_line": null
+    },
+    "footnote": {
+      "family": "Calibri, sans-serif",
+      "size": 16.0,
+      "cjk_chars_per_100px": 5.9,
+      "latin_chars_per_100px": 12.1,
+      "longest_planned_line": null
+    },
+    "lead": {
+      "family": "Calibri, sans-serif",
+      "size": 34.0,
+      "cjk_chars_per_100px": 2.8,
+      "latin_chars_per_100px": 5.7,
+      "longest_planned_line": null
+    }
+  },
+  "source": "spec_lock.md",
+  "generated_at": "2026-09-03T04:46:08Z",
+  "notes": [
+    "role data (56px, at least twice body) has no data_family and uses body_family; declare data_family if it is display type",
+    "role display (72px, at least twice body) has no display_family and uses body_family; declare display_family if it is display type"
+  ]
+}

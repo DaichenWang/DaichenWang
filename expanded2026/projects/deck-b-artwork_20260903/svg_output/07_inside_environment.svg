@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="environment-image" data-pptx-bounds="0 0 1280 320">
+    <image href="../images/vr_detail_blossom_path.png" x="0" y="0" width="1280" height="320" preserveAspectRatio="xMidYMid slice" />
+  </g>
+  <g id="page-header" data-pptx-bounds="72 356 1136 100" fill="#003B71">
+    <text x="72" y="412" font-family="Georgia, serif" font-size="48">No score, no timer, no failure state</text>
+    <rect x="72" y="436" width="220" height="4" />
+  </g>
+  <g id="environment-detail" data-pptx-bounds="72 460 552 160">
+    <text x="72" y="496" font-size="22" fill="#1A1A1A">Up to three concurrent users on Meta Quest 3,<tspan x="72" dy="32">free exploration in a 3 × 3 m volume, 90fps,</tspan><tspan x="72" dy="32">with a non-VR desktop fallback.</tspan></text>
+  </g>
+  <g id="environment-senses" data-pptx-bounds="656 460 552 160">
+    <text x="656" y="496" font-size="22" fill="#1A1A1A">Approaching an artifact triggers Classical<tspan x="656" dy="32">poetry in Mandarin and local dialects; Suzhou</tspan><tspan x="656" dy="32">Pingtan and a day-night cycle do the rest.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">7</text>
+  </g>
+</svg>

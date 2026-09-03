@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">Three contributions, three fields</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="contribution-theory" data-pptx-bounds="72 176 357 334">
+    <rect x="72" y="184" width="60" height="4" fill="#003B71" />
+    <text x="72" y="232" font-family="Georgia, serif" font-size="36" fill="#003B71">Theory</text>
+    <text x="72" y="272" font-size="22" fill="#5A6570">diaspora and memory studies</text>
+    <text x="72" y="320" font-size="22" fill="#1A1A1A">A model of diasporic root-<tspan x="72" dy="32">seeking as sensory and</tspan><tspan x="72" dy="32">embodied memory activation,</tspan><tspan x="72" dy="32">bringing Fei's Xiangtu into</tspan><tspan x="72" dy="32">dialogue with Brah's homing</tspan><tspan x="72" dy="32">desire.</tspan></text>
+  </g>
+  <g id="contribution-evidence" data-pptx-bounds="461 176 357 334">
+    <rect x="461" y="184" width="60" height="4" fill="#0091DA" />
+    <text x="461" y="232" font-family="Georgia, serif" font-size="36" fill="#003B71">Evidence</text>
+    <text x="461" y="272" font-size="22" fill="#5A6570">digital heritage and HCI</text>
+    <text x="461" y="320" font-size="22" fill="#1A1A1A">To our knowledge the first<tspan x="461" dy="32">peer-reviewed, empirically</tspan><tspan x="461" dy="32">evaluated social VR</tspan><tspan x="461" dy="32">environment tailored to</tspan><tspan x="461" dy="32">Chinese diaspora cultural</tspan><tspan x="461" dy="32">needs.</tspan></text>
+  </g>
+  <g id="contribution-method" data-pptx-bounds="850 176 357 334">
+    <rect x="850" y="184" width="60" height="4" fill="#8A8D8F" />
+    <text x="850" y="232" font-family="Georgia, serif" font-size="36" fill="#003B71">Method</text>
+    <text x="850" y="272" font-size="22" fill="#5A6570">community-centred design</text>
+    <text x="850" y="320" font-size="22" fill="#1A1A1A">A validated co-design model<tspan x="850" dy="32">for culturally specific XR,</tspan><tspan x="850" dy="32">replicable with other</tspan><tspan x="850" dy="32">displaced communities.</tspan></text>
+  </g>
+  <g id="what-generalises" data-pptx-bounds="72 526 1136 104">
+    <line x1="72" y1="526" x2="1208" y2="526" stroke="#003B71" stroke-width="2" />
+    <text x="72" y="566" font-size="34" fill="#1A1A1A">The empirical findings are situated in this case; the theory<tspan x="72" dy="40">and the methodology are designed to travel.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">10</text>
+  </g>
+</svg>

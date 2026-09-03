@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">What has not been built</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="gap-claim" data-pptx-bounds="72 176 1136 160">
+    <text x="72" y="224" font-size="34" fill="#1A1A1A">No peer-reviewed, empirically validated <tspan font-weight="bold" fill="#003B71">social VR</tspan><tspan x="72" dy="46">environment has been designed for the cultural and spatial</tspan><tspan x="72" dy="46">needs of the Chinese diaspora.</tspan></text>
+  </g>
+  <g id="gap-evidence-tools" data-pptx-bounds="72 352 552 262">
+    <text x="72" y="388" font-size="22" fill="#5A6570">Existing digital strategies</text>
+    <text x="72" y="432" font-size="28" fill="#1A1A1A">WeChat, video calls and social media<tspan x="72" dy="40">sustain relationships at a distance</tspan><tspan x="72" dy="40">— but not the embodied spatial</tspan><tspan x="72" dy="40">familiarity Fei identified as the</tspan><tspan x="72" dy="40">bedrock of Xiangtu society.</tspan></text>
+  </g>
+  <g id="gap-evidence-studies" data-pptx-bounds="656 352 552 262">
+    <line x1="640" y1="360" x2="640" y2="606" stroke="#D8DFE6" stroke-width="2" />
+    <text x="656" y="388" font-size="22" fill="#5A6570">Existing VR-for-diaspora work</text>
+    <text x="656" y="432" font-size="28" fill="#1A1A1A">Preliminary studies either lacked<tspan x="656" dy="40">cultural specificity or focused</tspan><tspan x="656" dy="40">narrowly on students. None centres</tspan><tspan x="656" dy="40">the classical Chinese garden as a</tspan><tspan x="656" dy="40">carrier for root-seeking.</tspan></text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">4</text>
+  </g>
+</svg>

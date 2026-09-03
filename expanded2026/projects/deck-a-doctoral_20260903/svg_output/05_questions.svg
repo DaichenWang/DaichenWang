@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">The questions</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="overarching-question" data-pptx-bounds="72 176 1136 204">
+    <text x="72" y="206" font-size="22" fill="#5A6570">The overarching question</text>
+    <text x="72" y="258" font-family="Georgia, serif" font-size="36" fill="#003B71">When permanent physical return is no longer viable,<tspan x="72" dy="48">how can the sensory, spatial and social conditions</tspan><tspan x="72" dy="48">of cultural belonging be reconstituted elsewhere?</tspan></text>
+  </g>
+  <g id="subsidiary-questions" data-pptx-bounds="72 396 1136 218">
+    <line x1="72" y1="396" x2="1208" y2="396" stroke="#D8DFE6" stroke-width="2" />
+    <text x="72" y="428" font-size="22" fill="#5A6570">Operationalised through one designed case — the garden is an instrumental<tspan x="72" dy="32">case, not the object of the thesis</tspan></text>
+    <text x="72" y="502" font-size="28" fill="#1A1A1A"><tspan font-weight="bold" fill="#0091DA">Q1</tspan>  Which cultural, spatial and sensory elements are essential?</text>
+    <text x="72" y="546" font-size="28" fill="#1A1A1A"><tspan font-weight="bold" fill="#0091DA">Q2</tspan>  How can co-design engage diaspora communities in shaping it?</text>
+    <text x="72" y="590" font-size="28" fill="#1A1A1A"><tspan font-weight="bold" fill="#0091DA">Q3</tspan>  How do participants experience belonging and reconnection?</text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">5</text>
+  </g>
+</svg>

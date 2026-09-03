@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48">Digitising the garden</text>
+    <rect x="72" y="136" width="220" height="4" />
+  </g>
+  <g id="composition-caption" data-pptx-bounds="72 176 592 40">
+    <text x="72" y="204" font-size="22" fill="#5A6570">102 objects across six functional categories</text>
+  </g>
+  <g id="artifact-category-composition" data-pptx-bounds="72 220 560 340">
+    <g id="artifact-category-composition-chartArea">
+      <!-- chart-plot-area: object=artifact-category-composition | 72,220,632,560 -->
+      <rect x="72" y="220" width="258" height="340" fill="#003B71" stroke="#FFFFFF" stroke-width="2" />
+      <rect x="330" y="220" width="179" height="167" fill="#0091DA" stroke="#FFFFFF" stroke-width="2" />
+      <rect x="509" y="220" width="123" height="167" fill="#3D6E9B" stroke="#FFFFFF" stroke-width="2" />
+      <rect x="330" y="387" width="119" height="173" fill="#A8C0D4" stroke="#FFFFFF" stroke-width="2" />
+      <rect x="449" y="387" width="97" height="173" fill="#C9D6E0" stroke="#FFFFFF" stroke-width="2" />
+      <rect x="546" y="387" width="86" height="173" fill="#E1E8EE" stroke="#FFFFFF" stroke-width="2" />
+      <text x="201" y="403" font-size="36" text-anchor="middle" fill="#FFFFFF">47</text>
+      <text x="420" y="316" font-size="36" text-anchor="middle" fill="#FFFFFF">16</text>
+      <text x="571" y="316" font-size="36" text-anchor="middle" fill="#FFFFFF">11</text>
+      <text x="390" y="486" font-size="36" text-anchor="middle" fill="#1A1A1A">11</text>
+      <text x="498" y="486" font-size="36" text-anchor="middle" fill="#1A1A1A">9</text>
+      <text x="589" y="486" font-size="36" text-anchor="middle" fill="#1A1A1A">8</text>
+    </g>
+  </g>
+  <g id="category-legend" data-pptx-bounds="696 176 512 230">
+    <rect x="696" y="190" width="24" height="24" fill="#003B71" />
+    <text x="732" y="209" font-size="22" fill="#1A1A1A">Architectural components</text>
+    <rect x="696" y="228" width="24" height="24" fill="#0091DA" />
+    <text x="732" y="247" font-size="22" fill="#1A1A1A">Garden furniture and objects</text>
+    <rect x="696" y="266" width="24" height="24" fill="#3D6E9B" />
+    <text x="732" y="285" font-size="22" fill="#1A1A1A">Sculpture and decoration</text>
+    <rect x="696" y="304" width="24" height="24" fill="#A8C0D4" />
+    <text x="732" y="323" font-size="22" fill="#1A1A1A">Inscriptions and calligraphy</text>
+    <rect x="696" y="342" width="24" height="24" fill="#C9D6E0" />
+    <text x="732" y="361" font-size="22" fill="#1A1A1A">Plants and natural landscape</text>
+    <rect x="696" y="380" width="24" height="24" fill="#E1E8EE" />
+    <text x="732" y="399" font-size="22" fill="#1A1A1A">Architecture and structures</text>
+  </g>
+  <g id="capture-reserve" data-pptx-bounds="696 422 512 170">
+    <rect x="696" y="422" width="512" height="96" fill="#F2F5F8" stroke="#8A8D8F" stroke-width="2" stroke-dasharray="8,4" />
+    <text x="952" y="478" font-size="22" text-anchor="middle" fill="#5A6570">Fieldwork photo to be added</text>
+    <text x="696" y="548" font-size="22" fill="#5A6570">Reserved — add your own capture shot:<tspan x="696" dy="32">handheld LiDAR, or the aerial pass.</tspan></text>
+  </g>
+  <g id="capture-methods" data-pptx-bounds="72 592 1136 36">
+    <text x="72" y="614" font-size="22" fill="#1A1A1A">iPhone LiDAR, Gaussian Splatting, aerial photogrammetry — every tree is procedural.</text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Models decimated 50,000 → 5,000–8,000 polygons, UVs preserved for 4K atlases. Open on Sketchfab.</text>
+    <text x="1208" y="652" text-anchor="end">9</text>
+  </g>
+</svg>
