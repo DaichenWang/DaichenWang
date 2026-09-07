@@ -1,0 +1,236 @@
+{
+  "schema": "ppt-master.pptx-postflight-report.v1",
+  "status": "passed-with-warnings",
+  "output": {
+    "path": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903/exports/deck-a-doctoral_20260907_045504.pptx",
+    "bytes": 6107408
+  },
+  "source": {
+    "svg_slide_count": 12,
+    "layout_definition_count": 0,
+    "fingerprint": {
+      "algorithm": "sha256",
+      "digest": "ea930136563091b0ff4b153ebb7f79ecbb3f06bac068b072a81eb31ef717043d",
+      "file_count": 12,
+      "files": [
+        {
+          "file": "01_cover.svg",
+          "sha256": "b03ede11a1db9d1061692a570e130b96b4aa315c8a5ce644e640e2368efbedcd"
+        },
+        {
+          "file": "02_motivation.svg",
+          "sha256": "b44a10cc2b1d748a301a84fb5d3bbc256bf30d659957869511a141bd01f58525"
+        },
+        {
+          "file": "03_roots_to_routes.svg",
+          "sha256": "c1d39a258afe41d385e08e0f2a474622e1e0ca88cb81e3b0bbffd64e9e23a3fe"
+        },
+        {
+          "file": "04_research_gap.svg",
+          "sha256": "d36299b5fa0978f65654a53b10df57d8ac0218d5919b007f524d04099a084240"
+        },
+        {
+          "file": "05_questions.svg",
+          "sha256": "813deb3fa39998184ecbed3a66f4c05e9d8539294b6826f0f720066815ac8916"
+        },
+        {
+          "file": "06_three_phases.svg",
+          "sha256": "424d4708f6ce3f4249937af185caaf46dcc32030991c0da866c7cf6fe758b22f"
+        },
+        {
+          "file": "07_fieldwork.svg",
+          "sha256": "d49df9cf5c86d7f80d935ff8b418d544f7aba8407a5e6a63bcd7f83f26a568f8"
+        },
+        {
+          "file": "08_evidence.svg",
+          "sha256": "566ed738e2e10326ddf287d11ef6f1e20dd08418298cfd3241d544845bdd8ea6"
+        },
+        {
+          "file": "09_two_platforms.svg",
+          "sha256": "cbc261df476b5b0c59baba431b4247eddb49cf364c1b3157eb00c05b76d87a32"
+        },
+        {
+          "file": "10_current_status.svg",
+          "sha256": "038a2011860ab0003650c5be408cbe81086e50417e09113db6a75d7ad998480c"
+        },
+        {
+          "file": "11_contributions.svg",
+          "sha256": "10f02798196666492a202fc2b455854fcb7085106575765d629b03b18db973b9"
+        },
+        {
+          "file": "12_next_steps.svg",
+          "sha256": "fa42b7e9ed6720a0d205a76c62af8e8753d2a2663641202abfa46d053404f9ff"
+        }
+      ]
+    },
+    "authoring_roundtrip": null
+  },
+  "package": {
+    "zip_integrity": "passed",
+    "corrupt_member": null,
+    "slides": 12,
+    "notes": 12,
+    "masters": 1,
+    "layouts": 1
+  },
+  "checks": {
+    "zip_integrity": "passed",
+    "slide_count": "passed",
+    "internal_relationships": "enforced-at-build",
+    "structured_package": "not-applicable",
+    "transitions": "enforced-at-build",
+    "animations": "enforced-at-build",
+    "project_svg_contract": "enforced-at-build",
+    "compatibility_normalization": "not-applicable",
+    "authoring_roundtrip": "not-applicable",
+    "quality_gate": "passed",
+    "quality_warnings": "warning",
+    "template_tokens": "passed",
+    "external_images": "passed",
+    "font_portability": "passed"
+  },
+  "quality": {
+    "status": "loaded",
+    "path": "projects/deck-a-doctoral_20260903/validation/svg_quality_report.json",
+    "schema": "ppt-master.svg-quality-report.v1",
+    "stage": "final",
+    "source_match": "passed",
+    "source_fingerprint": {
+      "algorithm": "sha256",
+      "digest": "ea930136563091b0ff4b153ebb7f79ecbb3f06bac068b072a81eb31ef717043d",
+      "file_count": 12,
+      "files": [
+        {
+          "file": "01_cover.svg",
+          "sha256": "b03ede11a1db9d1061692a570e130b96b4aa315c8a5ce644e640e2368efbedcd"
+        },
+        {
+          "file": "02_motivation.svg",
+          "sha256": "b44a10cc2b1d748a301a84fb5d3bbc256bf30d659957869511a141bd01f58525"
+        },
+        {
+          "file": "03_roots_to_routes.svg",
+          "sha256": "c1d39a258afe41d385e08e0f2a474622e1e0ca88cb81e3b0bbffd64e9e23a3fe"
+        },
+        {
+          "file": "04_research_gap.svg",
+          "sha256": "d36299b5fa0978f65654a53b10df57d8ac0218d5919b007f524d04099a084240"
+        },
+        {
+          "file": "05_questions.svg",
+          "sha256": "813deb3fa39998184ecbed3a66f4c05e9d8539294b6826f0f720066815ac8916"
+        },
+        {
+          "file": "06_three_phases.svg",
+          "sha256": "424d4708f6ce3f4249937af185caaf46dcc32030991c0da866c7cf6fe758b22f"
+        },
+        {
+          "file": "07_fieldwork.svg",
+          "sha256": "d49df9cf5c86d7f80d935ff8b418d544f7aba8407a5e6a63bcd7f83f26a568f8"
+        },
+        {
+          "file": "08_evidence.svg",
+          "sha256": "566ed738e2e10326ddf287d11ef6f1e20dd08418298cfd3241d544845bdd8ea6"
+        },
+        {
+          "file": "09_two_platforms.svg",
+          "sha256": "cbc261df476b5b0c59baba431b4247eddb49cf364c1b3157eb00c05b76d87a32"
+        },
+        {
+          "file": "10_current_status.svg",
+          "sha256": "038a2011860ab0003650c5be408cbe81086e50417e09113db6a75d7ad998480c"
+        },
+        {
+          "file": "11_contributions.svg",
+          "sha256": "10f02798196666492a202fc2b455854fcb7085106575765d629b03b18db973b9"
+        },
+        {
+          "file": "12_next_steps.svg",
+          "sha256": "fa42b7e9ed6720a0d205a76c62af8e8753d2a2663641202abfa46d053404f9ff"
+        }
+      ]
+    },
+    "summary": {
+      "total": 12,
+      "passed": 11,
+      "warnings": 1,
+      "errors": 0
+    },
+    "categories": {
+      "blocking": {
+        "count": 0,
+        "issues": []
+      },
+      "introduced": {
+        "count": 1,
+        "issues": [
+          {
+            "file": "08_evidence.svg",
+            "message": "data-pptx-replace-with marker visitor-item-ranking: Native PPTX chart visible text not projected: '3.80'. Use categories/data labels/axis labels/legend or companion text."
+          }
+        ]
+      },
+      "inherited": {
+        "count": 0,
+        "issues": []
+      },
+      "source-import": {
+        "count": 0,
+        "summary": {
+          "warning_count": 0,
+          "by_code": {}
+        }
+      }
+    }
+  },
+  "resources": {
+    "unresolved_template_tokens": [],
+    "fonts": {
+      "stacks": [
+        "Calibri, sans-serif",
+        "Georgia, serif"
+      ],
+      "generic_only_stacks": [],
+      "unsafe_exported_faces": []
+    },
+    "images": {
+      "data_uri": 0,
+      "local": 8,
+      "external": 0,
+      "external_references": []
+    }
+  },
+  "export_policy": {
+    "project_svg_contract": "strict",
+    "dangerous_normalization_count": 0
+  },
+  "deck_motion": {
+    "transition": {
+      "effect": "fade",
+      "effect_options": {},
+      "duration": 0.4,
+      "auto_advance": null,
+      "sound": null
+    },
+    "animation": {
+      "effect": "none",
+      "effect_request": null,
+      "duration": 0.4,
+      "stagger": 0.5,
+      "trigger": "after-previous"
+    },
+    "cli_overrides": {
+      "transition": false,
+      "transition_duration": false,
+      "auto_advance": false,
+      "transition_sound": false,
+      "animation": false,
+      "animation_duration": false,
+      "animation_stagger": false,
+      "animation_trigger": false
+    },
+    "narration_timings": false
+  },
+  "backup_path": "/home/user/DaichenWang/expanded2026/projects/deck-a-doctoral_20260903/backup/20260907_045504/svg_output",
+  "conversion_trace_path": null
+}
