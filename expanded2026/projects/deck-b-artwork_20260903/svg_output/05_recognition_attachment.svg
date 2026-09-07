@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">Recognition runs ahead of attachment</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
@@ -15,12 +15,12 @@
       <!-- chart-plot-area: object=recognition-attachment-gap | 420,240,740,520 -->
       <line x1="504.8" y1="300" x2="655.2" y2="300" stroke="#8A8D8F" stroke-width="4" />
       <circle cx="504.8" cy="300" r="12" fill="#8A8D8F" />
-      <circle cx="655.2" cy="300" r="12" fill="#003B71" />
+      <circle cx="655.2" cy="300" r="12" fill="#003562" />
       <text x="486" y="308" font-size="22" text-anchor="end" fill="#1A1A1A">3.53</text>
       <text x="674" y="308" font-size="22" fill="#1A1A1A">4.47</text>
       <line x1="548" y1="440" x2="660" y2="440" stroke="#8A8D8F" stroke-width="4" />
       <circle cx="548" cy="440" r="12" fill="#8A8D8F" />
-      <circle cx="660" cy="440" r="12" fill="#003B71" />
+      <circle cx="660" cy="440" r="12" fill="#003562" />
       <text x="529" y="448" font-size="22" text-anchor="end" fill="#1A1A1A">3.80</text>
       <text x="679" y="448" font-size="22" fill="#1A1A1A">4.50</text>
       <text x="400" y="292" font-size="22" text-anchor="end" fill="#1A1A1A">Visitors: importance</text>

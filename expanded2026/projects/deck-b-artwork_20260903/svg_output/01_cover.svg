@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="cover">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
   <image id="cover-photo" data-pptx-role="decoration" href="../images/vr_garden_hero.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="xMidYMid slice" />
-  <rect id="cover-plate" data-pptx-role="decoration" x="0" y="470" width="1280" height="250" fill="#003B71" />
-  <g id="cover-title" data-pptx-bounds="72 494 1136 190" fill="#FFFFFF">
-    <text x="72" y="560" font-family="Georgia, serif" font-size="72">Root-Seeking · Xun Gen</text>
-    <text x="72" y="612" font-family="Georgia, serif" font-size="36">Reimagining a historic Chinese garden in XR</text>
-    <text x="72" y="662" font-size="22">Daichen Wang · Rewa Wright · Damian Candusso · Gavin Sade — QUT</text>
-    <text x="1208" y="662" font-size="22" text-anchor="end">Expanded 2026 · Linz</text>
+  <rect id="cover-plate" data-pptx-role="decoration" x="0" y="470" width="1280" height="250" fill="#003562" />
+  <g id="cover-title" data-pptx-bounds="72 494 1136 200">
+    <text x="72" y="560" font-family="Georgia, serif" font-size="72" fill="#FFFFFF">Root-Seeking · Xun Gen</text>
+    <text x="72" y="612" font-family="Georgia, serif" font-size="36" fill="#FFFFFF">Reimagining a historic Chinese garden in XR</text>
+    <text x="72" y="648" font-size="22" fill="#FFFFFF">Daichen Wang · Rewa Wright · Damian Candusso · Gavin Sade — QUT<tspan x="72" dy="36">Expanded 2026 · Linz, 9–11 September 2026</tspan></text>
+    <image href="../images/qut_logo_white.png" x="968" y="630" width="240" height="57" preserveAspectRatio="xMidYMid meet"/>
   </g>
 </svg>

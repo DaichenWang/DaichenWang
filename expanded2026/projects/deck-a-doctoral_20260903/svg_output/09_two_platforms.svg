@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
   <g id="page-header" data-pptx-bounds="72 56 1136 140">
-    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#003B71">Two platforms, one designed environment</text>
-    <rect x="72" y="136" width="220" height="4" fill="#003B71" />
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#003562">Two platforms, one designed environment</text>
+    <rect x="72" y="136" width="220" height="4" fill="#003562" />
     <text x="72" y="176" font-size="34" fill="#1A1A1A">Minecraft is the methodological engine of Phase Two.</text>
   </g>
   <g id="platform-vr" data-pptx-bounds="72 212 660 400">
     <image href="../images/vr_garden_hero.png" x="72" y="212" width="660" height="290" preserveAspectRatio="xMidYMid slice" />
-    <text x="72" y="540" font-family="Georgia, serif" font-size="36" fill="#003B71">High-fidelity VR</text>
+    <text x="72" y="540" font-family="Georgia, serif" font-size="36" fill="#003562">High-fidelity VR</text>
     <text x="72" y="576" font-size="22" fill="#1A1A1A">Unity 2022.3 → VRChat on Meta Quest 3<tspan x="72" dy="28">90fps, 3 × 3 m volume, desktop fallback</tspan></text>
   </g>
   <g id="platform-minecraft" data-pptx-bounds="764 212 444 400">
     <image href="../images/minecraft_ai_guide.png" x="764" y="250" width="444" height="213" preserveAspectRatio="xMidYMid meet" />
-    <text x="764" y="540" font-family="Georgia, serif" font-size="36" fill="#003B71">Minecraft + MinePal</text>
+    <text x="764" y="540" font-family="Georgia, serif" font-size="36" fill="#003562">Minecraft + MinePal</text>
     <text x="764" y="576" font-size="22" fill="#1A1A1A">Java Edition, custom server, AI guide<tspan x="764" dy="28">configured by a character brief</tspan></text>
   </g>
   <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
     <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
-    <text x="1208" y="652" text-anchor="end">8</text>
+    <text x="1208" y="652" text-anchor="end">9</text>
   </g>
 </svg>

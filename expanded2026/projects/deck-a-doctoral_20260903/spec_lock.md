@@ -25,7 +25,7 @@
 ## colors
 - background: #FFFFFF
 - secondary_bg: #F2F5F8
-- primary: #003B71
+- primary: #003562
 - accent: #0091DA
 - secondary_accent: #8A8D8F
 - body_text: #1A1A1A
@@ -55,11 +55,14 @@
 ## images
 - vr-garden-hero: images/vr_garden_hero.png | source=user | crop=adaptive
 - minecraft-ai-guide: images/minecraft_ai_guide.png | source=user | crop=no-crop
-- p02-wuxi-station: images/p02_wuxi_station.png | source=placeholder | crop=adaptive
-- p09-exhibition: images/p09_exhibition.png | source=placeholder | crop=adaptive
+- qut-logo: images/qut_logo.png | source=user | crop=no-crop
+- wuxi-station: images/wuxi_station.jpg | source=user | crop=adaptive
+- jichang-fieldwork: images/jichang_fieldwork.jpg | source=user | crop=adaptive
+- focusgroup-headset: images/focusgroup_headset.jpg | source=user | crop=adaptive
+- focusgroup-screen: images/focusgroup_screen.jpg | source=user | crop=no-crop
 
 ## page_visualizations
-- P07: chart/horizontal_bar_chart
+- P08: chart/horizontal_bar_chart
 
 ## page_rhythm
 - P01: anchor
@@ -68,15 +71,15 @@
 - P04: dense
 - P05: breathing
 - P06: dense
-- P07: dense
-- P08: breathing
-- P09: dense
+- P07: breathing
+- P08: dense
+- P09: breathing
 - P10: dense
-- P11: anchor
+- P11: dense
+- P12: anchor
 
 ## pptx_structure
 - mode: flat
-
 ## forbidden
 - `mask`, `<style>`, `class`, external CSS, `<foreignObject>`, `textPath`, `@font-face`, `<animate*>`, `<set>`, `<script>` / event attributes, `<iframe>`
 - HTML named entities in text; write typography as raw Unicode and escape XML reserved characters

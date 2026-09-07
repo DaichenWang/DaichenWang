@@ -1,4 +1,9 @@
 No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
 1,minecraft_ai_guide.png,703,337,2.09,2.09,,native,PNG,False,1,,bitmap,True,True,543.0,Ultra-wide
-2,vr_detail_blossom_path.png,1911,1071,1.78,1.78,,native,PNG,False,1,,bitmap,True,True,4000.2,Wide landscape
-3,vr_garden_hero.png,1910,1069,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4054.6,Wide landscape
+2,qut_logo_white.png,1200,283,4.24,4.24,,native,PNG,True,1,,bitmap,True,True,45.4,Ultra-wide
+3,scan_lidar_onsite.jpg,1080,1440,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,227.9,Portrait
+4,sketchfab_archive.png,2113,1037,2.04,2.04,,native,PNG,False,1,,bitmap,True,True,581.7,Ultra-wide
+5,vr_borrowed_hills.png,1919,1078,1.78,1.78,,native,PNG,False,1,,bitmap,True,True,2602.7,Wide landscape
+6,vr_detail_blossom_path.png,1911,1071,1.78,1.78,,native,PNG,False,1,,bitmap,True,True,4000.2,Wide landscape
+7,vr_dusk_lantern.png,1919,1078,1.78,1.78,,native,PNG,False,1,,bitmap,True,True,2893.4,Wide landscape
+8,vr_garden_hero.png,1910,1069,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4054.6,Wide landscape

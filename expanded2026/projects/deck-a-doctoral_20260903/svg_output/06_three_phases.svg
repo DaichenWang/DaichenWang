@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">A three-phase participatory study</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
   <g id="phase-one" data-pptx-bounds="72 176 357 400">
-    <g id="p06-phase-1-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 180 357 56" fill="#003B71" stroke="none">
+    <g id="p06-phase-1-chevron" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="chevron" data-pptx-frame="72 180 357 56" fill="#003562" stroke="none">
 <path d="M 72 180 L 401 180 L 429 208 L 401 236 L 72 236 L 100 208 Z" />
 </g>
     <use data-icon="tabler-filled/chart-dots-2" x="116" y="192" width="32" height="32" fill="#FFFFFF"/>
     <text x="160" y="218" font-size="22" fill="#FFFFFF">PHASE ONE</text>
-    <text x="72" y="290" font-family="Georgia, serif" font-size="36" fill="#003B71">Requirements</text>
-    <text x="72" y="372" font-size="56" font-weight="bold" fill="#003B71">172</text>
+    <text x="72" y="290" font-family="Georgia, serif" font-size="36" fill="#003562">Requirements</text>
+    <text x="72" y="372" font-size="56" font-weight="bold" fill="#003562">172</text>
     <text x="72" y="418" font-size="22" fill="#1A1A1A">retained diaspora responses<tspan x="72" dy="32">of 206 returned</tspan><tspan x="72" dy="32">50 visitors and staff on site</tspan><tspan x="72" dy="32">27 written questionnaires</tspan><tspan x="72" dy="32">40 demonstration participants</tspan></text>
   </g>
   <g id="phase-two" data-pptx-bounds="461 176 357 400">
@@ -20,7 +20,7 @@
 </g>
     <use data-icon="tabler-filled/message" x="505" y="192" width="32" height="32" fill="#FFFFFF"/>
     <text x="549" y="218" font-size="22" fill="#FFFFFF">PHASE TWO</text>
-    <text x="461" y="290" font-family="Georgia, serif" font-size="36" fill="#003B71">Reflection</text>
+    <text x="461" y="290" font-family="Georgia, serif" font-size="36" fill="#003562">Reflection</text>
     <text x="461" y="372" font-size="56" font-weight="bold" fill="#0091DA">12</text>
     <text x="461" y="418" font-size="22" fill="#1A1A1A">Brisbane participants in two<tspan x="461" dy="32">groups of six, 20 June 2026</tspan><tspan x="461" dy="32">recruited beyond student</tspan><tspan x="461" dy="32">networks — social media, the</tspan><tspan x="461" dy="32">CSSA, a table tennis club</tspan></text>
   </g>
@@ -30,7 +30,7 @@
 </g>
     <use data-icon="tabler-filled/compass" x="894" y="192" width="32" height="32" fill="#FFFFFF"/>
     <text x="938" y="218" font-size="22" fill="#FFFFFF">PHASE THREE</text>
-    <text x="850" y="290" font-family="Georgia, serif" font-size="36" fill="#003B71">Measurement</text>
+    <text x="850" y="290" font-family="Georgia, serif" font-size="36" fill="#003562">Measurement</text>
     <text x="850" y="372" font-size="56" font-weight="bold" fill="#8A8D8F">26</text>
     <text x="850" y="418" font-size="22" fill="#1A1A1A">item experience measure on<tspan x="850" dy="32">interface, immersion, culture</tspan><tspan x="850" dy="32">recognition, social presence</tspan><tspan x="850" dy="32">plus pre- and post-state</tspan><tspan x="850" dy="32">questionnaires, same sessions</tspan></text>
   </g>

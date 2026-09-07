@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">The questions</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
   <g id="overarching-question" data-pptx-bounds="72 176 1136 204">
     <text x="72" y="206" font-size="22" fill="#5A6570">The overarching question</text>
-    <text x="72" y="258" font-family="Georgia, serif" font-size="36" fill="#003B71">When permanent physical return is no longer viable,<tspan x="72" dy="48">how can the sensory, spatial and social conditions</tspan><tspan x="72" dy="48">of cultural belonging be reconstituted elsewhere?</tspan></text>
+    <text x="72" y="258" font-family="Georgia, serif" font-size="36" fill="#003562">When permanent physical return is no longer viable,<tspan x="72" dy="48">how can the sensory, spatial and social conditions</tspan><tspan x="72" dy="48">of cultural belonging be reconstituted elsewhere?</tspan></text>
   </g>
   <g id="subsidiary-questions" data-pptx-bounds="72 396 1136 218">
     <line x1="72" y1="396" x2="1208" y2="396" stroke="#D8DFE6" stroke-width="2" />

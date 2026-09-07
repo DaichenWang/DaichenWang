@@ -55,7 +55,7 @@
 | --- | --- | --- |
 | Background | #FFFFFF | Page field on text pages |
 | Secondary background | #F2F5F8 | Pale surface panel behind one technical block per page |
-| Primary | #003B71 | QUT blue — page titles, title rules, type plates over imagery, primary data marks |
+| Primary | #003562 | QUT blue — page titles, title rules, type plates over imagery, primary data marks |
 | Accent | #0091DA | QUT support sky blue — the highlighted data mark and the one emphasised term per page |
 | Secondary accent | #8A8D8F | QUT silver — comparison data marks, secondary treemap cells, de-emphasised series |
 | Body text | #1A1A1A | Body copy and figure labels |
@@ -141,8 +141,11 @@
 | vr_garden_hero.png | 1910x1069 | 1.79 | The reconstructed Jichang Garden in VR — the bridge, pavilion and borrowed prospect in one frame | Placed | Full-bleed cover field with the title on a solid blue plate; on P06 a large left view; on P08 a wide band supporting the aerial-perspective argument | adaptive | user | Existing | Author's own Unity/VRChat capture of the Root-Seeking VR environment | no-text | P01 cover; P06 presence column; P08 aerial perspective |
 | vr_detail_blossom_path.png | 1911x1071 | 1.78 | The blossom path and red pavilion — the environment's atmosphere and depth at eye level | Placed | Wide edge-anchored view carrying the page, with the type block in one clear corner | adaptive | user | Existing | Author's own Unity/VRChat detail capture of the VR environment | no-text | P02 the work; P07 inside the environment |
 | minecraft_ai_guide.png | 703x337 | 2.09 | The MinePal AI cultural guide answering in-world about Li Bai, moonlight and homesickness | Placed | Kept small and never enlarged past its native pixels; sits as the right-hand companion on P06 and as the evidence still on P10 | no-crop | user | Existing | Author's own screen capture of the MinePal exchange | preserve | P06 authorship column; P10 the Minecraft laboratory |
-| p04_scanned_artifact.png | reserved | reserved | One scanned artifact, or the Sketchfab archive page, standing for the factual layer | Placeholder | Right-hand panel beside the two-layer provenance model | adaptive | placeholder | Placeholder | Author to supply their own Sketchfab capture or artifact render | no-text | P04 layered provenance |
-| p09_capture_pipeline.png | reserved | reserved | Capture in the field — handheld LiDAR scanning, or the aerial capture over the garden | Placeholder | Small evidence still beside the three capture methods | adaptive | placeholder | Placeholder | Author to supply their own fieldwork photograph from the Jichang Garden digitisation | no-text | P09 digitisation pipeline |
+| qut_logo_white.png | 1200x283 | 4.24 | The QUT institutional lockup, reversed for the cover's blue plate | Placed | Right-aligned on the cover plate, complete and unclipped | no-crop | user | Existing | Official QUT horizontal logo supplied by the author, reversed to white | preserve | P01 cover |
+| vr_dusk_lantern.png | 1919x1078 | 1.78 | The garden at dusk with the stone lantern lit — the day-night cycle made visible | Placed | Full-width band above the page's claim | adaptive | user | Existing | Author's own VRChat capture at dusk | no-text | P07 inside the environment |
+| vr_borrowed_hills.png | 1919x1078 | 1.78 | The borrowed prospect toward the Xishan hills through atmospheric haze | Placed | Full-width band carrying the aerial-perspective argument | adaptive | user | Existing | Author's own VRChat capture of the borrowed view | no-text | P08 aerial perspective |
+| sketchfab_archive.png | 2113x1037 | 2.04 | The open Sketchfab repository — every scanned object with its own page, views and comments | Placed | Complete grid beside the two-layer provenance model, never cropped: the point is how many there are | no-crop | user | Existing | Author's own capture of the project's Sketchfab repository | preserve | P04 layered provenance |
+| scan_lidar_onsite.jpg | 1080x1440 | 0.75 | Handheld iPhone LiDAR capture of a carved relief at Jichang Garden | Placed | Tall frame at the page edge beside the category composition, near its native ratio | adaptive | user | Existing | Author's own fieldwork photograph from the Jichang Garden digitisation | no-text | P09 digitisation |
 
 ## IX. Content Outline
 
@@ -157,7 +160,7 @@
 - **Title**: Root-Seeking · Xun Gen
 - **Core message**: Reimagining a historic Chinese garden in XR
 - **Content**: Full title / subtitle · Daichen Wang, Rewa Wright, Damian Candusso, Gavin Sade — School of Creative Arts, Queensland University of Technology · Expanded 2026, Linz, 9–11 September 2026
-- **Images**: vr_garden_hero.png full-bleed
+- **Images**: vr_garden_hero.png full-bleed; qut_logo_white.png reversed on the blue plate
 
 #### Slide 02 - What it is
 
@@ -188,7 +191,7 @@
 - **Title**: What separates speculative co-creation from distortion
 - **Core message**: Participants are given licence to imagine precisely because imagining does not overwrite the historical record
 - **Content**: Factual layer — an open archive of 102 systematically scanned artifacts, anchoring the environment in the physical garden and remaining publicly inspectable · speculative layer — community-authored ritual, narrative and atmosphere built on that foundation and remaining legible as interpretation rather than record · keeping the two distinct lets the work operate simultaneously as archive and as artwork
-- **Images**: p04_scanned_artifact.png reserved on the right
+- **Images**: sketchfab_archive.png on the right, shown complete so the sheer count is the argument
 - **Fact IDs**: paper section 1, ref 8
 
 ### Part 2: What the audience asked for, and what was built
@@ -223,7 +226,7 @@
 - **Title**: No score, no timer, no failure state
 - **Core message**: Contemplative engagement was prioritised over task-oriented interaction, against the clearest result in the survey
 - **Content**: Open-world environment on Meta Quest 3, up to three concurrent users, free exploration within a 3m x 3m tracking volume, 90fps with assets optimised for mobile GPU constraints, non-VR desktop fallback · approaching specific heritage artifacts triggers readings of Classical Chinese poetry in Mandarin and local dialects · spatial audio including Suzhou Pingtan music and dialectal voice fragments distributed contextually across the environment · a dynamic day-night cycle shifts lighting and ambient sound, embodying the passage of time central to root-seeking · multi-user capability enables spontaneous social encounters and voice chat · there is no score, no timer and no failure state
-- **Images**: vr_detail_blossom_path.png anchored to the page edge
+- **Images**: vr_dusk_lantern.png anchored to the page edge, chosen so the day-night cycle is visible rather than asserted
 - **Fact IDs**: paper section 2
 
 #### Slide 08 - Aerial perspective is a cultural decision
@@ -234,7 +237,7 @@
 - **Title**: Depth through mist, not perspective
 - **Core message**: Restoring aerial perspective both improves depth perception and recovers a culturally specific way of seeing
 - **Content**: A flattening effect was observed under uniform illumination, where equal lighting across the depth scale reduced the legibility of distance · distance-based volumetric fog and height fog now attenuate contrast and saturation toward the horizon, so dark, saturated foreground elements recede into progressively hazier distant scenery · this adjustment is cultural as much as optical — classical shanshui landscape painting renders depth through mist and tonal recession rather than linear perspective · Jichang Garden itself borrows the distant Xishan hills through atmospheric haze
-- **Images**: vr_garden_hero.png as a wide band
+- **Images**: vr_borrowed_hills.png as a wide band — the Xishan prospect through haze is the page's own evidence
 - **Fact IDs**: paper section 3
 
 ### Part 3: The archive, the laboratory, and what it contributes
@@ -248,7 +251,7 @@
 - **Core message**: To our knowledge the most comprehensive volumetric archive of Jichang Garden in existence — and the distribution reflects the conditions of capture as much as the site
 - **Content**: 102 heritage objects across six categories assigned by function — architectural components 47, garden furniture and functional objects 16, sculpture and decorative elements 11, inscriptions plaques and calligraphy 11, plants and natural landscape 9, architecture and spatial structures 8 · handheld iPhone LiDAR for standard objects at ground level such as stone guardian lions and bridge structures · Gaussian Splatting processed in Scaniverse for intricate surface detail and challenging light · aerial video reconstructed as photogrammetric geometry for spatial relationships and the borrowed prospect toward the Xishan hills · high-resolution models averaging 50,000 polygons decimated to 5,000–8,000 by quadric edge collapse, UV mapping preserved for 4K texture atlases · vegetation resists photogrammetry entirely, so every tree in the built environments is a procedural model · the point-based volumetric nature of Gaussian Splatting mirrors the fragmented, fluid nature of diasporic memory — heritage as a reconstructing field of light and data rather than a solid, immutable object
 - **Visualization**: artifact-category-composition — six nested area cells sized by object count, the 47-object category dominant and labelled, the rest ordered clockwise by count; Native-ready: artifact-category-composition=no — the native treemap payload rejects per-cell data labels, and the six counts are the point of the figure
-- **Images**: p09_capture_pipeline.png reserved beside the capture methods
+- **Images**: scan_lidar_onsite.jpg as a tall frame at the page edge; the six categories are labelled directly in their cells rather than through a legend
 - **Fact IDs**: paper sections 4 and 5
 
 #### Slide 10 - The Minecraft laboratory

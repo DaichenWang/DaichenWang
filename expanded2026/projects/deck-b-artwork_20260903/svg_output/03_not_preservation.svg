@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">Addressed to a displaced community</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
@@ -11,7 +11,7 @@
   </g>
   <g id="limitation" data-pptx-bounds="764 176 444 436">
     <rect x="764" y="176" width="444" height="436" fill="#F2F5F8" />
-    <text x="796" y="224" font-size="22" font-weight="bold" fill="#003B71">The limitation, stated</text>
+    <text x="796" y="224" font-size="22" font-weight="bold" fill="#003562">The limitation, stated</text>
     <text x="796" y="272" font-size="22" fill="#1A1A1A">Participation does not dissolve<tspan x="796" dy="32">power relations, and we do not</tspan><tspan x="796" dy="32">claim that it does. What was</tspan><tspan x="796" dy="32">scanned, whose dialects are</tspan><tspan x="796" dy="32">heard and which garden stands</tspan><tspan x="796" dy="32">in for home were decided by the</tspan><tspan x="796" dy="32">research team.</tspan></text>
     <text x="796" y="512" font-size="22" fill="#1A1A1A">One Jiangnan literati garden<tspan x="796" dy="32">cannot represent the regional</tspan><tspan x="796" dy="32">diversity of Chinese heritage.</tspan></text>
   </g>

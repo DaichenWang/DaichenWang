@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
   <g id="depth-image" data-pptx-bounds="0 0 1280 300">
-    <image href="../images/vr_garden_hero.png" x="0" y="0" width="1280" height="300" preserveAspectRatio="xMidYMid slice" />
+    <image href="../images/vr_borrowed_hills.png" x="0" y="0" width="1280" height="300" preserveAspectRatio="xMidYMid slice" />
   </g>
-  <g id="page-header" data-pptx-bounds="72 336 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 336 1136 100" fill="#003562">
     <text x="72" y="392" font-family="Georgia, serif" font-size="48">Depth through mist, not perspective</text>
     <rect x="72" y="416" width="220" height="4" />
   </g>

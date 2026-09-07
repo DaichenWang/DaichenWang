@@ -1,3 +1,8 @@
 No,Filename,Width,Height,AspectRatio,PixelAspectRatio,SourceDisplayRatio,RatioSource,Format,HasTransparentPixels,UsageCount,DisplayRatioVariants,AssetKind,SvgRenderable,PptxNativeSupported,SizeKB,Category
-1,minecraft_ai_guide.png,703,337,2.09,2.09,,native,PNG,False,1,,bitmap,True,True,543.0,Ultra-wide
-2,vr_garden_hero.png,1910,1069,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4054.6,Wide landscape
+1,focusgroup_headset.jpg,2016,1512,1.33,1.33,,native,JPEG,False,1,,bitmap,True,True,235.4,Standard landscape
+2,focusgroup_screen.jpg,2016,1512,1.33,1.33,,native,JPEG,False,1,,bitmap,True,True,184.9,Standard landscape
+3,jichang_fieldwork.jpg,1279,1706,0.75,0.75,,native,JPEG,False,1,,bitmap,True,True,464.8,Portrait
+4,minecraft_ai_guide.png,703,337,2.09,2.09,,native,PNG,False,1,,bitmap,True,True,543.0,Ultra-wide
+5,qut_logo.png,1200,283,4.24,4.24,,native,PNG,True,1,,bitmap,True,True,69.4,Ultra-wide
+6,vr_garden_hero.png,1910,1069,1.79,1.79,,native,PNG,False,1,,bitmap,True,True,4054.6,Wide landscape
+7,wuxi_station.jpg,1080,1805,0.60,0.60,,native,JPEG,False,1,,bitmap,True,True,481.3,Portrait

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
+  <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+  <g id="page-header" data-pptx-bounds="72 56 1136 140">
+    <text x="72" y="112" font-family="Georgia, serif" font-size="48" fill="#003562">Wuxi, then Brisbane</text>
+    <rect x="72" y="136" width="220" height="4" fill="#003562" />
+    <text x="72" y="176" font-size="34" fill="#1A1A1A">The same prototype, carried to the people it was built for.</text>
+  </g>
+  <g id="field-jichang" data-pptx-bounds="72 212 552 400">
+    <image href="../images/jichang_fieldwork.jpg" x="72" y="212" width="552" height="345" preserveAspectRatio="xMidYMid slice" />
+    <text x="72" y="592" font-size="22" fill="#1A1A1A"><tspan font-weight="bold" fill="#003562">On site</tspan>  Jichang Garden, 50 visitors and staff</text>
+  </g>
+  <g id="field-brisbane" data-pptx-bounds="656 212 552 400">
+    <image href="../images/focusgroup_headset.jpg" x="656" y="212" width="552" height="345" preserveAspectRatio="xMidYMid slice" />
+    <text x="656" y="592" font-size="22" fill="#1A1A1A"><tspan font-weight="bold" fill="#0091DA">In Brisbane</tspan>  focus groups, 20 June 2026</text>
+  </g>
+  <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
+    <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>
+    <text x="1208" y="652" text-anchor="end">7</text>
+  </g>
+</svg>

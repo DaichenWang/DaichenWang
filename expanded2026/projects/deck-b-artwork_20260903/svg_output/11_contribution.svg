@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="ending">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">What this contributes</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
   <g id="register-empirical" data-pptx-bounds="72 176 357 244">
-    <rect x="72" y="184" width="60" height="4" fill="#003B71" />
-    <text x="72" y="222" font-family="Georgia, serif" font-size="36" fill="#003B71">Empirically</text>
+    <rect x="72" y="184" width="60" height="4" fill="#003562" />
+    <text x="72" y="222" font-family="Georgia, serif" font-size="36" fill="#003562">Empirically</text>
     <text x="72" y="266" font-size="22" fill="#1A1A1A">What this audience wants:<tspan x="72" dy="32">contemplative, not gamified</tspan><tspan x="72" dy="32">interaction; temporal rhythm</tspan><tspan x="72" dy="32">sensory content; a low</tspan><tspan x="72" dy="32">operational threshold.</tspan></text>
   </g>
   <g id="register-design" data-pptx-bounds="461 176 357 244">
     <rect x="461" y="184" width="60" height="4" fill="#0091DA" />
-    <text x="461" y="222" font-family="Georgia, serif" font-size="36" fill="#003B71">As design</text>
+    <text x="461" y="222" font-family="Georgia, serif" font-size="36" fill="#003562">As design</text>
     <text x="461" y="266" font-size="22" fill="#1A1A1A">A transferable dual-platform<tspan x="461" dy="32">model: a contemplative world</tspan><tspan x="461" dy="32">paired with a co-creative</tspan><tspan x="461" dy="32">one, joined by a pipeline</tspan><tspan x="461" dy="32">that moves content between.</tspan></text>
   </g>
   <g id="register-practice" data-pptx-bounds="850 176 357 244">
     <rect x="850" y="184" width="60" height="4" fill="#8A8D8F" />
-    <text x="850" y="222" font-family="Georgia, serif" font-size="36" fill="#003B71">As practice</text>
+    <text x="850" y="222" font-family="Georgia, serif" font-size="36" fill="#003562">As practice</text>
     <text x="850" y="266" font-size="22" fill="#1A1A1A">A cultural XR privileging<tspan x="850" dy="32">affect, ritual and the</tspan><tspan x="850" dy="32">multisensory over photoreal</tspan><tspan x="850" dy="32">— heritage invention, not</tspan><tspan x="850" dy="32">heritage documentation.</tspan></text>
   </g>
   <g id="boundary" data-pptx-bounds="72 428 1136 92">
@@ -24,7 +24,7 @@
     <text x="72" y="462" font-size="22" fill="#5A6570">The boundary, stated: these findings establish need, design preferences and initial<tspan x="72" dy="32">reception — not long-term effect. Identity formation awaits the post-workshop evaluation.</tspan></text>
   </g>
   <g id="closing-claim" data-pptx-bounds="72 532 1136 98">
-    <line x1="72" y1="532" x2="1208" y2="532" stroke="#003B71" stroke-width="3" />
+    <line x1="72" y1="532" x2="1208" y2="532" stroke="#003562" stroke-width="3" />
     <text x="72" y="574" font-size="34" fill="#1A1A1A">Postgeographic sanctuaries: living counter-archives<tspan x="72" dy="40">co-created with the communities they serve.</tspan></text>
   </g>
   <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">

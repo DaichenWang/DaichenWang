@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
   <g id="environment-image" data-pptx-bounds="0 0 1280 320">
-    <image href="../images/vr_detail_blossom_path.png" x="0" y="0" width="1280" height="320" preserveAspectRatio="xMidYMid slice" />
+    <image href="../images/vr_dusk_lantern.png" x="0" y="0" width="1280" height="320" preserveAspectRatio="xMidYMid slice" />
   </g>
-  <g id="page-header" data-pptx-bounds="72 356 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 356 1136 100" fill="#003562">
     <text x="72" y="412" font-family="Georgia, serif" font-size="48">No score, no timer, no failure state</text>
     <rect x="72" y="436" width="220" height="4" />
   </g>

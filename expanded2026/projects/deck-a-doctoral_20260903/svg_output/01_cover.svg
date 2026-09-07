@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="cover">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
   <g id="cover-title" data-pptx-bounds="72 72 1136 224" font-family="Georgia, serif">
-    <text x="72" y="150" font-size="72" fill="#003B71">Root-Seeking · Xun Gen</text>
+    <text x="72" y="150" font-size="72" fill="#003562">Root-Seeking · Xun Gen</text>
     <text x="72" y="216" font-size="36" fill="#1A1A1A">A practice-based inquiry into XR environments<tspan x="72" dy="46">for diasporic cultural reconnection</tspan></text>
   </g>
-  <g id="cover-image" data-pptx-bounds="72 330 1136 285">
-    <image href="../images/vr_garden_hero.png" x="72" y="330" width="1136" height="250" preserveAspectRatio="xMidYMid slice" />
-    <text x="72" y="602" font-size="16" fill="#5A6570">Root-Seeking · Xun Gen — the reconstructed Jichang Garden in VR</text>
+  <g id="cover-image" data-pptx-bounds="72 330 1136 270">
+    <image href="../images/vr_garden_hero.png" x="72" y="330" width="1136" height="240" preserveAspectRatio="xMidYMid slice" />
+    <text x="72" y="590" font-size="16" fill="#5A6570">Root-Seeking · Xun Gen — the reconstructed Jichang Garden in VR</text>
   </g>
-  <g id="cover-credit" data-pptx-bounds="72 620 1136 60">
-    <line x1="72" y1="626" x2="1208" y2="626" stroke="#003B71" stroke-width="3" />
-    <text x="72" y="662" font-size="22" fill="#1A1A1A">Daichen Wang — School of Creative Arts, Queensland University of Technology</text>
-    <text x="1208" y="662" font-size="22" text-anchor="end" fill="#5A6570">Expanded 2026 · Linz</text>
+  <g id="cover-credit" data-pptx-bounds="72 612 1136 76">
+    <line x1="72" y1="620" x2="1208" y2="620" stroke="#003562" stroke-width="3" />
+    <text x="72" y="650" font-size="22" fill="#1A1A1A">Daichen Wang — School of Creative Arts, QUT<tspan x="72" dy="28" fill="#5A6570">Expanded 2026 · Linz, 9–11 September 2026</tspan></text>
+    <image href="../images/qut_logo.png" x="968" y="618" width="240" height="57" preserveAspectRatio="xMidYMid meet" />
   </g>
 </svg>

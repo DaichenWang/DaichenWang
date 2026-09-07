@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">Co-creation, not distortion</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
@@ -8,15 +8,15 @@
     <rect x="72" y="200" width="560" height="130" fill="#FFFFFF" stroke="#0091DA" stroke-width="2" />
     <text x="104" y="248" font-size="28" font-weight="bold" fill="#0091DA">Speculative layer</text>
     <text x="104" y="290" font-size="22" fill="#1A1A1A">Community-authored ritual, narrative and<tspan x="104" dy="30">atmosphere — legible as interpretation.</tspan></text>
-    <rect x="72" y="350" width="660" height="130" fill="#003B71" />
+    <rect x="72" y="350" width="660" height="130" fill="#003562" />
     <text x="104" y="398" font-size="28" font-weight="bold" fill="#FFFFFF">Factual layer</text>
     <text x="104" y="440" font-size="22" fill="#FFFFFF">All <tspan font-weight="bold">102</tspan> systematically scanned artifacts,<tspan x="104" dy="30">open and publicly inspectable — the record.</tspan></text>
     <text x="72" y="524" font-size="28" fill="#1A1A1A">Participants may imagine precisely because<tspan x="72" dy="40">imagining does not overwrite the record.</tspan></text>
   </g>
-  <g id="artifact-reserve" data-pptx-bounds="764 176 444 436">
-    <rect x="764" y="176" width="444" height="300" fill="#F2F5F8" stroke="#8A8D8F" stroke-width="2" stroke-dasharray="8,4" />
-    <text x="986" y="326" font-size="22" text-anchor="middle" fill="#5A6570">Image to be added</text>
-    <text x="764" y="522" font-size="22" fill="#5A6570">Reserved — add a capture of one<tspan x="764" dy="32">scanned artifact, or of the</tspan><tspan x="764" dy="32">Sketchfab archive page.</tspan></text>
+  <g id="archive-evidence" data-pptx-bounds="764 176 444 436">
+    <image href="../images/sketchfab_archive.png" x="764" y="200" width="444" height="218" preserveAspectRatio="xMidYMid meet"/>
+    <text x="764" y="462" font-size="22" fill="#1A1A1A">Every object is published with its<tspan x="764" dy="32">own page, its own view count and</tspan><tspan x="764" dy="32">its own comment thread. Anyone</tspan><tspan x="764" dy="32">can check what we claim.</tspan></text>
+    <text x="764" y="600" font-size="16" fill="#5A6570">sketchfab.com/DaichenWang</text>
   </g>
   <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">
     <text x="72" y="652">Root-Seeking · Xun Gen — Expanded 2026, Linz</text>

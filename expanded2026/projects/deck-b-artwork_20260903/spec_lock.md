@@ -25,7 +25,7 @@
 ## colors
 - background: #FFFFFF
 - secondary_bg: #F2F5F8
-- primary: #003B71
+- primary: #003562
 - accent: #0091DA
 - secondary_accent: #8A8D8F
 - body_text: #1A1A1A
@@ -55,9 +55,12 @@
 ## images
 - vr-garden-hero: images/vr_garden_hero.png | source=user | crop=adaptive
 - vr-detail-blossom-path: images/vr_detail_blossom_path.png | source=user | crop=adaptive
+- vr-dusk-lantern: images/vr_dusk_lantern.png | source=user | crop=adaptive
+- vr-borrowed-hills: images/vr_borrowed_hills.png | source=user | crop=adaptive
 - minecraft-ai-guide: images/minecraft_ai_guide.png | source=user | crop=no-crop
-- p04-scanned-artifact: images/p04_scanned_artifact.png | source=placeholder | crop=adaptive
-- p09-capture-pipeline: images/p09_capture_pipeline.png | source=placeholder | crop=adaptive
+- qut-logo-white: images/qut_logo_white.png | source=user | crop=no-crop
+- sketchfab-archive: images/sketchfab_archive.png | source=user | crop=no-crop
+- scan-lidar-onsite: images/scan_lidar_onsite.jpg | source=user | crop=adaptive
 
 ## page_visualizations
 - P05: chart/dumbbell_chart

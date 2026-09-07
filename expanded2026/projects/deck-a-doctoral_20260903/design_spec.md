@@ -7,7 +7,7 @@
 | --- | --- |
 | Project Name | deck-a-doctoral |
 | Canvas Format | PPT 16:9, 1280x720 |
-| Page Count | 11 |
+| Page Count | 12 |
 | Primary Language | en-AU |
 | Target Audience | Expanded 2026 delegates at the Conference on Animation and Interactive Art, Linz — XR artists and researchers, digital-heritage and HCI academics, and doctoral peers and panel members in the consortium session; fluent in immersive practice, largely unfamiliar with Chinese diaspora studies and classical garden theory |
 | Communication Intent | First make the doctoral inquiry's motivation and research gap legible to an XR audience with no background in diaspora studies; then account for the three-phase evidence base and its current status; then position three transferable contributions and invite methodological critique of the co-design model |
@@ -55,7 +55,7 @@
 | --- | --- | --- |
 | Background | #FFFFFF | Page field on every slide |
 | Secondary background | #F2F5F8 | Pale surface panel lifting one evidence block per page |
-| Primary | #003B71 | QUT blue — page titles, title rules, primary data marks, cover field |
+| Primary | #003562 | QUT blue — page titles, title rules, primary data marks, cover field |
 | Accent | #0091DA | QUT support sky blue — the one highlighted data mark or emphasised term per page |
 | Secondary accent | #8A8D8F | QUT silver — comparison and secondary data marks, de-emphasised series |
 | Body text | #1A1A1A | Body copy and figure labels |
@@ -131,7 +131,7 @@
 
 | Page | Family | Template | Usage |
 | --- | --- | --- | --- |
-| P07 | chart | horizontal_bar_chart | Rank the twelve on-site visitor items by mean agreement so the descent from cultural importance to personal significance is visible in one read |
+| P08 | chart | horizontal_bar_chart | Rank the twelve on-site visitor items by mean agreement so the descent from cultural importance to personal significance is visible in one read |
 
 ## VIII. Image Resource List
 
@@ -139,8 +139,11 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | vr_garden_hero.png | 1910x1069 | 1.79 | The reconstructed Jichang Garden in VR — the work's single most recognisable image | Placed | Wide band across the lower cover; on P08 a large left-column view paired with the Minecraft still | adaptive | user | Existing | Author's own Unity/VRChat capture of the Root-Seeking VR environment | no-text | P01 cover band; P08 VR platform evidence |
 | minecraft_ai_guide.png | 703x337 | 2.09 | The Minecraft platform with the MinePal AI cultural guide answering in-world | Placed | Right-column companion to the VR view, kept small because the source is low resolution | no-crop | user | Existing | Author's own screen capture of the MinePal exchange about Li Bai and moonlight | preserve | P08 Minecraft platform evidence |
-| p02_wuxi_station.png | reserved | reserved | The Wuxi Railway Station / Chunyun moment that opens the talk | Placeholder | Full-height right panel beside the opening statement | adaptive | placeholder | Placeholder | Author to supply their own photograph of the 9 February 2026 station scene | no-text | P02 motivation |
-| p09_exhibition.png | reserved | reserved | The VR environment publicly exhibited, or a participant in the Quest 3 headset | Placeholder | Small evidence still beside the current-status list | adaptive | placeholder | Placeholder | Author to supply their own exhibition or headset-in-use photograph | no-text | P09 current status |
+| qut_logo.png | 1200x283 | 4.24 | The QUT institutional lockup on the cover | Placed | Right-aligned in the cover credit band, complete and unclipped | no-crop | user | Existing | Official QUT horizontal logo supplied by the author | preserve | P01 cover |
+| jichang_fieldwork.jpg | 1279x800 | 1.60 | On-site fieldwork at Jichang Garden, the research team with visitors | Placed | Left half of the paired fieldwork band | adaptive | user | Existing | Author's own photograph from the Jichang Garden fieldwork | no-text | P07 fieldwork |
+| focusgroup_headset.jpg | 2016x1512 | 1.33 | A Brisbane participant inside the VR environment on Quest 3 | Placed | Right half of the paired fieldwork band, matched in height to its partner | adaptive | user | Existing | Author's own photograph from the 20 June 2026 sessions | no-text | P07 fieldwork |
+| wuxi_station.jpg | 1080x1805 | 0.60 | The Chunyun crowd in the waiting hall that opens the talk | Placed | Tall panel beside the opening statement, centre-cropped to the densest part of the crowd | adaptive | user | Existing | Author's own photograph of Wuxi Railway Station, 9 February 2026 | no-text | P02 motivation |
+| focusgroup_screen.jpg | 2016x1512 | 1.33 | A focus-group session running in the VR environment | Placed | Complete frame beside the status list, never enlarged past its native pixels | no-crop | user | Existing | Author's own photograph from the June 2026 Brisbane sessions | no-text | P10 current status |
 
 ## IX. Content Outline
 
@@ -155,7 +158,7 @@
 - **Title**: Root-Seeking · Xun Gen
 - **Core message**: A practice-based inquiry into XR environments for diasporic cultural reconnection
 - **Content**: Full title / subtitle · Daichen Wang, School of Creative Arts, Queensland University of Technology · Expanded 2026, Linz, 9–11 September 2026
-- **Images**: vr_garden_hero.png as the lower band
+- **Images**: vr_garden_hero.png as the lower band; qut_logo.png right-aligned in the credit rule beneath it
 
 #### Slide 02 - Why this research exists
 
@@ -165,7 +168,7 @@
 - **Title**: 9 February 2026, Wuxi Railway Station
 - **Core message**: The crowd was returning home; I was not — and that tension is the research's lived starting point
 - **Content**: The Lunar New Year rush at its peak · a flight back to Brisbane in a few days · the gap between return as a way of life and return as a periodic exception · the Chinese diaspora numbers in the tens of millions, and the desire to reconnect with cultural origins stays powerful and persistent
-- **Images**: p02_wuxi_station.png reserved on the right
+- **Images**: wuxi_station.jpg on the right, centre-cropped to the densest part of the crowd
 - **Fact IDs**: paper section 1 Motivation
 
 #### Slide 03 - From roots to routes
@@ -210,7 +213,18 @@
 - **Content**: Phase One — global online survey, 206 questionnaires returned across two rounds and 172 retained; on-site fieldwork with 50 visitors and staff at Jichang Garden, 27 written questionnaires (15 visitors, 12 administrators); prototype demonstrations extended to 40 participants; expert interview on cultural authenticity · Phase Two — Brisbane, 20 June 2026, two prototype reflection and validation focus groups, N=12 in two groups of six, recruited through Chinese-language social media, the CSSA and a local table tennis club chosen deliberately to reach beyond student networks · Phase Three — pre- and post-experience state questionnaires plus a 26-item experience measure, integrated into the same sessions and read descriptively against the discussions · all data collection approved under QUT Human Research Ethics LR 2025-8766
 - **Fact IDs**: paper section 3
 
-#### Slide 07 - What the evidence asked for
+#### Slide 07 - The fieldwork
+
+- **Audience move**: Holding the three phases as a table of numbers → seeing that the study was carried out with real people in two countries
+- **Relationships**: order — the prototype is taken first to the source site and its visitors, then to the diaspora community it was designed for; contrast — the same object meets two very different rooms
+- **Composition**: Two matched photographic frames side by side under one claim, each labelled with where it was and who was in it
+- **Title**: Wuxi, then Brisbane
+- **Core message**: The same prototype, carried to the people it was built for
+- **Content**: On site at Jichang Garden — the research team with visitors and staff, 50 engaged and 27 completing the written questionnaire · in Brisbane — the focus groups of 20 June 2026, participants inside the VR environment on Quest 3
+- **Images**: jichang_fieldwork.jpg and focusgroup_headset.jpg as a matched pair, equal height and equal weight, so neither site reads as the more important one
+- **Fact IDs**: paper section 3
+
+#### Slide 08 - What the evidence asked for
 
 - **Audience move**: Expecting designer intuition → seeing the design requirements arrive from the data, including a clear negative result
 - **Relationships**: contrast — cultural importance rates highest while personal significance and emotional attachment fall away in the same respondents; the online survey then fixes what the design must and must not do
@@ -221,7 +235,7 @@
 - **Visualization**: visitor-item-ranking — horizontal bars of the twelve on-site visitor means, ordered descending, with the two low-attachment items marked in the accent colour and the 4.47 item labelled; Native-ready: visitor-item-ranking=yes
 - **Fact IDs**: paper section 3, Figure 2
 
-#### Slide 08 - Two platforms, one environment
+#### Slide 09 - Two platforms, one environment
 
 - **Audience move**: Picturing a single VR demo → understanding a deliberate pairing in which the second platform is a research instrument
 - **Relationships**: contrast — the high-fidelity environment is built for presence, the block environment for authorship; membership — both are the same designed case
@@ -234,7 +248,7 @@
 
 ### Part 3: Where it stands and what it contributes
 
-#### Slide 09 - Where the work stands
+#### Slide 10 - Where the work stands
 
 - **Audience move**: Unsure how far along this is → holding a concrete completion state and one open analysis
 - **Relationships**: membership — four completed components of one project, with the thematic analysis the single item still in progress
@@ -242,10 +256,10 @@
 - **Title**: Current status
 - **Core message**: Data collection is complete; the thematic analysis now drives every remaining iteration
 - **Content**: Data collection complete across all three phases; thematic analysis of the June 2026 focus-group data underway · VR environment fully operational, 90fps on Meta Quest 3, publicly exhibited · Minecraft platform with the MinePal guide complete, over 90% conversational accuracy across approximately 20 test rounds · digital archive of 102 scanned artifacts from Jichang Garden — handheld iPhone LiDAR, Gaussian Splatting and aerial photogrammetry — publicly accessible on Sketchfab · a third platform iteration in Unreal Engine in development · longitudinal co-creation phase running through the second half of 2026
-- **Images**: p09_exhibition.png reserved beside the list
+- **Images**: focusgroup_screen.jpg beside the list, shown complete at its native ratio
 - **Fact IDs**: paper section 4
 
-#### Slide 10 - Three contributions
+#### Slide 11 - Three contributions
 
 - **Audience move**: Seeing an interesting artwork → able to name which field each contribution is addressed to and what generalises
 - **Relationships**: parent — three contributions, each addressed to a distinct field; contrast — the empirical finding stays situated while the theory and the method are designed to travel
@@ -255,7 +269,7 @@
 - **Content**: To diaspora and memory studies — a theoretical model of diasporic root-seeking as sensory and embodied memory activation, bringing Fei's Xiangtu into dialogue with Brah's homing desire · to digital heritage and HCI — to our knowledge the first peer-reviewed, empirically evaluated social VR environment tailored to Chinese diaspora cultural needs · to community-centred design practice — a validated co-design model for culturally specific XR, replicable with other displaced communities
 - **Fact IDs**: paper section 5
 
-#### Slide 11 - Next steps
+#### Slide 12 - Next steps
 
 - **Audience move**: Holding the contributions → knowing what happens next and leaving with the governing claim
 - **Relationships**: order — complete the analysis, iterate both platforms, compare across three, then extend into embodied performance
@@ -271,6 +285,6 @@
 - **Generation**: enabled
 - **Filename**: match each SVG filename under `notes/`
 - **Content**: A verbatim-speakable English script for each page, grounded only in the submitted paper and the thesis; every number spoken aloud matches the page and the source exactly; each note opens with the transition from the previous page and closes on the sentence that hands over to the next; the reserved-photograph slots are listed in the handover summary and labelled on the slides themselves, so the spoken script stays clean
-- **Total duration**: 10 minutes across 11 slides — roughly 55 seconds per page, with the cover under 20 seconds and the two evidence pages allowed 70
+- **Total duration**: 10 minutes across 12 slides — roughly 50 seconds per page, with the cover under 20 seconds and the evidence page allowed 70
 - **Notes style**: Conversational academic — first person on the motivation and the contributions, plain declarative elsewhere; written to be read aloud, not summarised
 - **Presentation purpose**: Make the inquiry's motivation and gap legible to an XR audience, account for the three-phase evidence base and its status, and position three transferable contributions for critique

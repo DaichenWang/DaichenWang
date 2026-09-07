@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">Configured, not engineered</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
@@ -10,10 +10,10 @@
   </g>
   <g id="lab-config" data-pptx-bounds="656 176 552 436">
     <use data-icon="tabler-filled/message" x="656" y="184" width="32" height="32" fill="#0091DA" />
-    <text x="700" y="210" font-size="22" font-weight="bold" fill="#003B71">The AI cultural guide</text>
+    <text x="700" y="210" font-size="22" font-weight="bold" fill="#003562">The AI cultural guide</text>
     <text x="656" y="254" font-size="22" fill="#1A1A1A">Minecraft Java Edition on a custom server,<tspan x="656" dy="32">with an in-world NPC through MinePal that</tspan><tspan x="656" dy="32">converses about garden aesthetics, classical</tspan><tspan x="656" dy="32">poetry and Chinese philosophy, switching</tspan><tspan x="656" dy="32">language on request.</tspan></text>
     <use data-icon="tabler-filled/user" x="656" y="424" width="32" height="32" fill="#0091DA" />
-    <text x="700" y="450" font-size="22" font-weight="bold" fill="#003B71">The workshop instrument</text>
+    <text x="700" y="450" font-size="22" font-weight="bold" fill="#003562">The workshop instrument</text>
     <text x="656" y="494" font-size="22" fill="#1A1A1A">Message boards for asynchronous dialogue,<tspan x="656" dy="32">real-time voice, and personal courtyards</tspan><tspan x="656" dy="32">participants customise themselves.</tspan></text>
   </g>
   <g id="page-foot" data-pptx-role="footer" data-pptx-bounds="72 632 1136 32" fill="#5A6570" font-size="16">

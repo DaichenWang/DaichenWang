@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Calibri, sans-serif" data-pptx-page-role="content">
   <rect id="page-field" data-pptx-role="background" x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
-  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003B71">
+  <g id="page-header" data-pptx-bounds="72 56 1136 100" fill="#003562">
     <text x="72" y="112" font-family="Georgia, serif" font-size="48">Roots of soil, routes of mobility</text>
     <rect x="72" y="136" width="220" height="4" />
   </g>
   <g id="theory-sequence" data-pptx-bounds="72 190 1136 416">
     <line x1="100" y1="212" x2="100" y2="596" stroke="#D8DFE6" stroke-width="2" />
     <g id="stage-xiangtu">
-      <circle cx="100" cy="219" r="10" fill="#003B71" />
-      <text x="140" y="232" font-family="Georgia, serif" font-size="36" fill="#003B71">Fei Xiaotong — identity bound to the soil</text>
+      <circle cx="100" cy="219" r="10" fill="#003562" />
+      <text x="140" y="232" font-family="Georgia, serif" font-size="36" fill="#003562">Fei Xiaotong — identity bound to the soil</text>
       <text x="140" y="276" font-size="28" fill="#1A1A1A">Xiangtu society: identity, kinship and moral obligation are<tspan x="140" dy="40">inseparable from the land of birth — Chaxu Geju, concentric circles.</tspan></text>
     </g>
     <g id="stage-limit">
       <circle cx="100" cy="355" r="10" fill="#0091DA" />
-      <text x="140" y="368" font-family="Georgia, serif" font-size="36" fill="#003B71">Where that frame reaches its limit</text>
+      <text x="140" y="368" font-family="Georgia, serif" font-size="36" fill="#003562">Where that frame reaches its limit</text>
       <text x="140" y="412" font-size="28" fill="#1A1A1A">For permanent transnational migrants the geographical centre has<tspan x="140" dy="40">irreversibly shifted. Roots give way to routes.</tspan></text>
     </g>
     <g id="stage-homing">
-      <circle cx="100" cy="491" r="10" fill="#003B71" />
-      <text x="140" y="504" font-family="Georgia, serif" font-size="36" fill="#003B71">Brah — homing desire, and a body that remembers</text>
+      <circle cx="100" cy="491" r="10" fill="#003562" />
+      <text x="140" y="504" font-family="Georgia, serif" font-size="36" fill="#003562">Brah — homing desire, and a body that remembers</text>
       <text x="140" y="548" font-size="28" fill="#1A1A1A">Home is “a mythic place of desire” — a feeling constructed,<tspan x="140" dy="40">not a place reached. Connerton then puts it in the body.</tspan></text>
     </g>
   </g>
