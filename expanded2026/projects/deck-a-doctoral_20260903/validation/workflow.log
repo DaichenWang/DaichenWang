@@ -472,3 +472,46 @@ stdout:
     [PPTX] projects/deck-a-doctoral_20260903/exports/deck-a-doctoral_20260907_041442.pptx
     [REPORT] projects/deck-a-doctoral_20260903/validation/deck-a-doctoral_20260907_041442.report.json
 === 2026-09-07T04:14:44.013Z END run=7e67ad7f1f9b elapsed_ms=2440 output_lines=59 retained=5 omitted=54 ===
+
+=== 2026-09-07T04:37:48.189Z PYTHON run=0e86d5c80f4a ===
+cwd: /home/user/DaichenWang/expanded2026
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/c6b02819b6ac-32c1cf49/ppt-master/scripts/total_md_split.py", "projects/deck-a-doctoral_20260903"]
+stdout:
+  [OK] SVG files and notes have one-to-one correspondence
+  [Done] Successfully generated 12/12 file(s)
+  [Done] Notes splitting complete
+=== 2026-09-07T04:37:48.197Z END run=0e86d5c80f4a elapsed_ms=7 output_lines=21 retained=3 omitted=18 ===
+
+=== 2026-09-07T04:37:48.274Z PYTHON run=99748e56869b ===
+cwd: /home/user/DaichenWang/expanded2026
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/c6b02819b6ac-32c1cf49/ppt-master/scripts/svg_quality_checker.py", "projects/deck-a-doctoral_20260903", "--canonical-authoring", "--stage", "final", "--json"]
+stdout:
+  [OK] 01_cover.svg - Passed
+  [WARN] 08_evidence.svg - Passed (with warnings)
+     [WARN] data-pptx-replace-with marker visitor-item-ranking: Native PPTX chart visible text not projected: '3.80'. Use categories/data labels/axis labels/legend or companion text.
+  [SUMMARY] Check Summary
+  Total files: 12
+    [OK] Fully passed: 11 (91%)
+    [WARN] With warnings: 1 (8%)
+    [ERROR] With errors: 0 (0%)
+  Provenance categories:
+    blocking: 0          hard findings; gate also requires exit 0
+    introduced: 1        advisory; new or changed
+    inherited: 0         informational; prototype-identical
+    source-import: 0     informational; source-conversion loss
+  [CARRIERS] Actual-use receipt (informational; not a quota)
+    Pages: 12 | text: 133 | images: 8 | icons: 3
+    Geometry: SVG elements 50 | native presets 3 | page-frame elements 12 | marker uses 0
+  [REPORT] JSON quality report exported: projects/deck-a-doctoral_20260903/validation/svg_quality_report.json
+=== 2026-09-07T04:37:54.324Z END run=99748e56869b elapsed_ms=6049 output_lines=53 retained=17 omitted=36 ===
+
+=== 2026-09-07T04:37:54.500Z PYTHON run=1882aa37cc70 ===
+cwd: /home/user/DaichenWang/expanded2026
+argv: ["/usr/local/bin/python3", "/root/.claude/plugins/cache/ppt-master/ppt-master/c6b02819b6ac-32c1cf49/ppt-master/scripts/svg_to_pptx.py", "projects/deck-a-doctoral_20260903"]
+stdout:
+  [Done] Saved: projects/deck-a-doctoral_20260903/exports/deck-a-doctoral_20260907_043755.pptx
+    [POSTFLIGHT] status=passed-with-warnings quality_gate=passed slides=12 warning_categories=1
+    [POSTFLIGHT][WARNING] quality_introduced_warnings=1
+    [PPTX] projects/deck-a-doctoral_20260903/exports/deck-a-doctoral_20260907_043755.pptx
+    [REPORT] projects/deck-a-doctoral_20260903/validation/deck-a-doctoral_20260907_043755.report.json
+=== 2026-09-07T04:37:56.187Z END run=1882aa37cc70 elapsed_ms=1687 output_lines=59 retained=5 omitted=54 ===

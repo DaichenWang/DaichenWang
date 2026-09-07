@@ -1,6 +1,6 @@
 # 01_cover
 
-This is Root-Seeking, Xun Gen. What you are looking at is Jichang Garden in Wuxi, one of the most celebrated classical literati gardens in China, rebuilt in extended reality. The name comes from xun gen, the search for cultural, historical and spiritual origins that runs through Chinese diaspora communities. I am Daichen Wang, and this is work with Rewa Wright, Damian Candusso and Gavin Sade at QUT.
+This is Root-Seeking, Xun Gen. Xun gen means root-seeking — the search for where you come from. What you're looking at is not a photograph. It's our reconstruction of Jichang Garden in Wuxi, captured inside VRChat, and you can walk into it wearing a headset. I'm Daichen Wang, with Rewa Wright, Damian Candusso and Gavin Sade at QUT.
 
 ---
 
